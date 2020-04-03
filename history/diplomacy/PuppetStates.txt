@@ -1,7 +1,15 @@
-#France Louisana
+#France - Louisana
 vassal = {
 	first = FRA
 	second = ULA
 	start_date = 1682.1.1
+	end_date = 1936.1.1
+}
+
+#UK - USA
+vassal = {
+	first = ENG
+	second = USA
+	start_date = 1607.1.1
 	end_date = 1936.1.1
 }
