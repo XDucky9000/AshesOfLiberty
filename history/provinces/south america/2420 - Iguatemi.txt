@@ -1,5 +1,5 @@
-owner = PRG
-controller = PRG
+owner = POR
+controller = POR
 add_core = PRG
 add_core = BRZ
 trade_goods = sulphur
