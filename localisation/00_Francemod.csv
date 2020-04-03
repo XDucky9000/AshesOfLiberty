@@ -32,7 +32,7 @@ EVTDESC7790013;The United Kingdom has ignored our complaints, and maintain that 
 EVTDESC7790014;The United Kingdom has backed down, leaving  New Zealand open to French colonization.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 EVTDESC7790015;The United Kingdom maintains that the Treaty of Waitangi is valid, however they have offered to sell the islands of Australasia to us for a hefty sum.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 treaty_of_new_york_title;The Treaty of New York ($YEAR$);;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-treaty_of_new_york_desc;The Americans have been beaten. French troops control all key cities on the Eastern Seaboard as well as the American capital, giving the US no choice but to negotiate a treaty with us. We intend to demand the return of Colonial Louisiane, the cession of Maine down to the Kennebec River, and the revocation of any claim to said territories. For fair compensation, we promise the Americans a large sum of money as well as the Anglo-dominated portions of Upper Canada, as well as revoking any claim we have to the Ohio river valley.;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+treaty_of_new_york_desc;The Americans have been beaten. French troops control all key cities on the Eastern Seaboard as well as the American capital, giving the US no choice but to negotiate a treaty with us. We intend to demand the return of Colonial Louisiana, the cession of Maine down to the Kennebec River, and the revocation of any claim to said territories. For fair compensation, we promise the Americans a large sum of money as well as the Anglo-dominated portions of Upper Canada, as well as revoking any claim we have to the Ohio river valley.;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 french_louisiana_title;Reconquering the Louisiana Colony;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 french_louisiana_desc;French Louisiana was an administrative district of New France. Under French control 1682 to 1762 and 1802 (nominally) to 1803, the area was named in honor of King Louis XIV, by French explorer Rene-Robert Cavelier, Sieur de la Salle. While France lost the territory during the Seven Years' War, France regained sovereignty of the western territory in the secret Treaty of San Ildefonso of 1800. But strained by obligations in Europe, Napoleon Bonaparte decided to sell the territory to the United States in the Louisiana Purchase of 1803, ending France's presence in Louisiana.\n\nAttempting to reconquer the vast territory of Louisana will be a mounmental task...;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 integrate_guyana_title;Integrate French Guiana;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -41,7 +41,7 @@ organize_acadia_title;Organize Acadia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_acadia_desc;Acadia was a colony of New France in northeastern North America that included parts of eastern Quebec, the Maritime provinces, and Maine to the Kennebec River. Slowly annexed by the United Kingdom over the course of the 18th century, Acadia is once again in French hands. If we intend to keep Acadia this time, we must invest in the colony, funding new settlers, deportation of rebellious english colonials, and building infrastructure throughout the colony. If we are successful, we will have a far greater control over Canada and the North American coast.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_canada_title;Restore French North America;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_canada_desc;Canada was the name of the French colony that once stretched along the St. Lawrence River, with the other colonies of New France being Acadia, Louisiana and the south shore of Newfoundland. Originally lost to the United Kingdom in 1763, we have now since restored out control over Canada. If we wish to counter possible rebellion by the Anglo-Canadians or invasion by the Americans, we must invest heavily in Canada, ensuring that the colony has a strong french presence and an unbroken loyalty to France.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-organize_louisiana_title;Invest in Louisiane;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+organize_louisiana_title;Invest in Louisiana;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_louisiana_desc;Sold to America in 1803 by Napoleon Bonaparte, we have reclaimed out former colony from the Americans. Ministers within the government have suggested sending French settlers to Louisiana, to settle the colony to properly consolidate our rule once more in the new world.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_australia_title;The Settlement of Australie;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 organize_australia_desc;Much like New Zealand, we have recieved Australia in our deal with the British. While a relatively minor colony, French colonial expeditions to Australia could be an important step in gaining a foothold in Southeast Asia and The Pacific.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -53,8 +53,8 @@ the_imperial_federation_nzl_title;The Status of Nouvelle-Zelande;;;;;;;;;;;;;x,,
 the_imperial_federation_nzl_desc;One of the most remote parts of our Empire, Nouvelle-Zelande (or New Zealand) fell under French control following a standoff between the UK and France in the 1840s. Since then, France has slowly settled the island, though it's remoteness and low population mean that it has yet to develop a truly seperate national idenitity. While granting more autonomy to New Zealand is always an option, we can also take advantage of this situation and integrate New Zealand into France itself, Similarly to nearby New Caledonia.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 the_imperial_federation_australia_title;The Status of Australie;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 the_imperial_federation_australia_desc;One of the more remote parts of our Empire, Australia fell under French control following a standoff between the UK and France in the 1840s. Since then, France has slowly settled the island, though it's remoteness and low population mean that it has yet to develop a truly seperate national idenitity. While granting more autonomy to Australia is always an option, we can also take advantage of this situation and integrate New Zealand into France itself, similarly to nearby New Caledonia.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-the_imperial_federation_louisiana_title;The Status of Louisiane;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-the_imperial_federation_louisiana_desc; Ever since it's reconquest from the United States, Louisiane has been a relatively peaceful colony. But as France turns to focus on colonial exploits in Africa and Asia, the question arises on what to do with out colonies in North America. Louisiane was primarily settled in the 1840s by French settlers from France, and as such it still maintains strong ties to the Motherland. If we wish to avoid our empire fracturing like that of the Spanish or the English, we should take steps towards integrating Louisiane into Metropolitan France.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+the_imperial_federation_louisiana_title;The Status of Louisiana;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+the_imperial_federation_louisiana_desc; Ever since it's reconquest from the United States, Louisiana has been a relatively peaceful colony. But as France turns to focus on colonial exploits in Africa and Asia, the question arises on what to do with out colonies in North America. Louisiana was primarily settled in the 1840s by French settlers from France, and as such it still maintains strong ties to the Motherland. If we wish to avoid our empire fracturing like that of the Spanish or the English, we should take steps towards integrating Louisiana into Metropolitan France.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 claim_aosta_title;Claim The Aosta Valley;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 claim_aosta_desc;The Aosta Valley was the first government authority to adopt Modern French as working language in 1536, three years before France itself. French has been the official language of the Aosta Valley since 1561, and in the 1860s, over 90% of the population declared being Francophone. In addition to our claims on Savoy and Nice, we will also extend our claims to the Aosta Valley as well.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 integrating_french_algeria_title;Integrating French Algeria;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -99,16 +99,16 @@ acadian;Acadian;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;
 cajun;Cadien;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;
 french_australian;Australien;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;
 ULA;Louisiana;;;;;;;;;;;;;x;;
-ULA_colonial_company;Dominion de Louisiane;;;;;;;;;;;;;x;;
-ULA_dominion;Dominion de Louisiane;;;;;;;;;;;;;x;;
-ULA_absolute_monarchy;Dominion de Louisiane;;;;;;;;;;;;;x;;
-ULA_prussian_constitutionalism;Dominion de Louisiane;;;;;;;;;;;;;x;;
-ULA_hms_government;Dominion de Louisiane;;;;;;;;;;;;;x;;
-ULA_democracy;Louisiane;;;;;;;;;;;;;x;;
-ULA_proletarian_dictatorship;Commune de Louisiane;;;;;;;;;;;;x;;
-ULA_presidential_dictatorship;Louisiane Republique;;;;;;;;;;;;;x;;
-ULA_bourgeois_dictatorship;Louisiane Republique;;;;;;;;;;;;;;x,
-ULA_fascist_dictatorship;Louisiane Republique;;;;;;;;;;;;;;x,
+ULA_colonial_company;Dominion of Louisiana;;;;;;;;;;;;;x;;
+ULA_dominion;Dominion of Louisiana;;;;;;;;;;;;;x;;
+ULA_absolute_monarchy;Dominion of Louisiana;;;;;;;;;;;;;x;;
+ULA_prussian_constitutionalism;Dominion of Louisiana;;;;;;;;;;;;;x;;
+ULA_hms_government;Dominion of Louisiana;;;;;;;;;;;;;x;;
+ULA_democracy;Louisiana;;;;;;;;;;;;;x;;
+ULA_proletarian_dictatorship;Louisiana Commune;;;;;;;;;;;;x;;
+ULA_presidential_dictatorship;Louisiana Republic;;;;;;;;;;;;;x;;
+ULA_bourgeois_dictatorship;Louisiana Republic;;;;;;;;;;;;;;x,
+ULA_fascist_dictatorship;Louisiana Republic;;;;;;;;;;;;;;x,
 ULA_ADJ;Louisianan;;;;;;;;;;;;;x;;
 ACA;Acadie;;;;;;;;;;;;;x;;
 ACA_ADJ;Acadien;;;;;;;;;;;;;x;;
