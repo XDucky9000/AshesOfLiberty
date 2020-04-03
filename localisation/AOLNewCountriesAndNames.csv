@@ -1,7 +1,7 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;x;;;;
 USA_colonial_company;Thirteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 NYS;New York;;;;;;;;;;;;;;
-NYS_ADJ:New York;;;;;;;;;;
+NYS_ADJ;New York;;;;;;;;;;
 NYS_bourgeois_dictatorship;New York;;;;;;;;;;;;;;
 NYS_absolute_monarchy;Empire of New York;;;;;;;;;;;;x
 NYS_prussian_constitutionalism;Empire of New York;;;;;;;;;;;;x
@@ -11,9 +11,27 @@ NYS_colonial_company;Dominion of New York;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NYS_socialist;Workingmen's Party;;;;;;;;;;;;x
 NYS_communist;Manhattan Reds;;;;;;;;;;;;x
 NYS_fascist;Silver Legion of New York;;;;;;;;;;;;x
-NYS_conservative_4;Democrats;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NYS_conservative;Democratic Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_conservative_2;Bourbon Democrats;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_reactionary;New York Union;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_anarcho_liberal;Wall Street Liberals;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-NYS_liberal;Republicans;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NYS_liberal;Republican Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NYS_liberal_1;Whigs;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG;Virginia;;;;;;;;;;;;;;
+VRG_ADJ;Virgin;;;;;;;;;;
+VRG_bourgeois_dictatorship;Virginia;;;;;;;;;;;;;;
+VRG_absolute_monarchy;Virgin Empire;;;;;;;;;;;;x
+VRG_prussian_constitutionalism;Virgin Empire;;;;;;;;;;;;x
+VRG_hms_government;Kingdom of Virginia;;;;;;;;;;;;x
+VRG_proletarian_dictatorship;Virginia's People's Republic;;;;;;;;;;;;x
+VRG_colonial_company;Dominion of Virginia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+VRG_socialist;Workingmen's Party;;;;;;;;;;;;x
+VRG_communist;CPV;;;;;;;;;;;;x
+VRG_fascist;Daughters of the Confederacy;;;;;;;;;;;;x
+VRG_conservative;Democratic Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG_conservative_2;Conservative Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG_reactionary;Dixiecrats;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG_anarcho_liberal;Radical Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG_liberal;Republican Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+VRG_liberal_1;Whigs;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;x
