@@ -1,5 +1,5 @@
 #France - Louisana
-vassal = {
+substate = {
 	first = FRA
 	second = ULA
 	start_date = 1682.1.1
@@ -7,9 +7,33 @@ vassal = {
 }
 
 #UK - USA
-vassal = {
+substate = {
 	first = ENG
 	second = USA
 	start_date = 1607.1.1
 	end_date = 1936.1.1
+}
+
+#Hudson Bay Company
+substate = {
+	first = ENG
+	second = RPL
+	start_date = 1805.1.1
+	end_date = 1936.1.1
+}
+
+#Spain - Mexico
+substate = {
+	first = SPA
+	second = MEX
+	start_date = 1521.1.1
+	end_date = 1936.1.1
+}
+
+#Spain - New Granada
+substate = {
+	first = SPA
+	second = CLM
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
 }

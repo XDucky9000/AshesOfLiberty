@@ -45,13 +45,13 @@ colonial_policy = settlement
 
 set_country_flag = protestant_country
 
-ruling_party = USA_conservative
+ruling_party = USA_reactionary
 last_election = 1832.5.3
 upper_house = {
 	fascist = 0
-	liberal = 37
-	conservative = 60
-	reactionary = 3
+	liberal = 10
+	conservative = 30
+	reactionary = 60
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

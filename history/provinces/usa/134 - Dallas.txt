@@ -1,5 +1,5 @@
-owner = TEX
-controller = TEX
+owner = ULA
+controller = ULA
 add_core = TEX
 add_core = MEX
 trade_goods = cattle

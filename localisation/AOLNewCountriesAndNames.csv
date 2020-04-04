@@ -1,4 +1,7 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;x;;;;
+USA_conservative;Neutralists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+USA_liberal;Patriots;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+USA_reactionary;Loyalists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 USA_colonial_company;Thirteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 NYS;New York;;;;;;;;;;;;;;
 NYS_ADJ;New York;;;;;;;;;;
@@ -14,7 +17,7 @@ NYS_fascist;Silver Legion of New York;;;;;;;;;;;;x
 NYS_conservative;Democratic Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_conservative_2;Bourbon Democrats;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_reactionary;New York Union;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-NYS_anarcho_liberal;Wall Street Liberals;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NYS_anarcho_liberal;Wall Street Bloc;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_liberal;Republican Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NYS_liberal_1;Whigs;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 VRG;Virginia;;;;;;;;;;;;;;

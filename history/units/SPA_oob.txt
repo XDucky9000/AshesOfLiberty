@@ -9,7 +9,7 @@ POR = {
 #North America
 MEX = {
 	value = 75		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
 UCA = {
@@ -46,7 +46,7 @@ PRG = {
 }
 CLM = {
 	value = 100		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
 BRZ = {
@@ -124,7 +124,6 @@ SUL = {
 ENG = { value = -75 }
 FRA = { value = 125 }
 AUS = { value = 0 }
-USA = { value = -25 }
 PRU = { value = 0 }
 TUR = { value = 25 }
 RUS = { value = 0 }
