@@ -8427,55 +8427,53 @@
 } # Tallahassee
 
 198 = {
-    unit = {
-        x = 1473.000000
-        y = 1460.000000
-    }
-
     text_position = {
-        x = 1478.000000
-        y = 1454.500000
+        x = 1491.600000
+        y = 1455.700000
     }
 
-    text_scale = 3.299999
-    building_construction = {
-        x = 1464.099976
-        y = 1461.300049
+    text_scale = 2.5
+    unit = {
+        x = 1492.100000
+        y = 1456.100000
     }
 
-    military_construction = {
-        x = 1493.800049
-        y = 1457.000000
+    city = {
+        x = 1488.200000
+        y = 1456.200000
     }
 
     factory = {
-        x = 1480.199951
-        y = 1451.099976
+        x = 1486.450000
+        y = 1457.450000
+    }
+
+    building_construction = {
+        x = 1499.800000
+        y = 1452.400000
+    }
+
+    military_construction = {
+        x = 1497.850000
+        y = 1457.800000
     }
 
     building_position = {
         fort = {
-            x = 1477.000000
-            y = 1447.000000
+            x = 1486.250000
+            y = 1452.000000
+        }
+
+        railroad = {
+            x = 1493.500000
+            y = 1452.850000
         }
 
         naval_base = {
-            x = 1471.199951
-            y = 1447.199951
+            x = 1492.650000
+            y = 1450.600000
         }
 
-    }
-
-    spawn_railway_track = {
-        {
-            x = 1466.000000
-            y = 1481.000000
-        }
-
-    }
-
-    building_rotation = {
-        naval_base = 5.497786
     }
 
 } # St Augustine
@@ -120356,6 +120354,59 @@
     city = {
         x = 3472
         y = 1492
+    }
+
+}
+
+# Bay
+3275 = {
+    text_position = {
+        x = 1458.640000
+        y = 1462.933333
+    }
+
+    text_scale = 3.5
+    unit = {
+        x = 1462.426667
+        y = 1461.813333
+    }
+
+    city = {
+        x = 1468.346667
+        y = 1454.506667
+    }
+
+    factory = {
+        x = 1466.693333
+        y = 1457.546667
+    }
+
+    building_construction = {
+        x = 1451.813333
+        y = 1460.426667
+    }
+
+    military_construction = {
+        x = 1448.506667
+        y = 1463.520000
+    }
+
+    building_position = {
+        fort = {
+            x = 1460.720000
+            y = 1463.520000
+        }
+
+        railroad = {
+            x = 1466.533333
+            y = 1460.266667
+        }
+
+        naval_base = {
+            x = 1468.186667
+            y = 1451.466667
+        }
+
     }
 
 }
