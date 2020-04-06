@@ -1,5 +1,5 @@
-owner = PRU
-controller = PRU
+owner = NET
+controller = NET
 add_core = NET
 add_core = BEL
 trade_goods = coal

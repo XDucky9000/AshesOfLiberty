@@ -7,7 +7,9 @@ MEX_colonial_company;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 USA_colony;Fourteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 MEX_colony;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 colony;Colonial Administration;;;;;;;;;;;;x
-colony;Governor;;;;;;;;;;;;x
+colony_ruler;Governor;;;;;;;;;;;;x
+free_city;Free City;;;;;;;;x
+free_city_ruler;Syndic;;;;x
 NYS;New York;;;;;;;;;;;;;;
 NYS_ADJ;New York;;;;;;;;;;
 NYS_bourgeois_dictatorship;New York;;;;;;;;;;;;;;
@@ -52,7 +54,6 @@ FLU_proletarian_dictatorship;Commune de Louisiane;;;;;;;;;;;;x
 FLU_colonial_company;Dominion of Louisiane;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 CLG;Cologne;;;;;;;;;;;;;;x
 CLG_ADJ;Cologne;;;;;;;;;;x
-CLG_ADJ_theocracy;Test;;;;;x
 CLG_bourgeois_dictatorship;Cologne;;;;;;;;;;;;;;x
 CLG_absolute_monarchy;Kingdom of Cologne;;;;;;;;;;;;x
 CLG_prussian_constitutionalism;Kingdom of Cologne;;;;;;;;;;;;x
@@ -82,7 +83,45 @@ AAC_absolute_monarchy;Kingdom of Aachen;;;;;;;;;;;;x
 AAC_prussian_constitutionalism;Kingdom of Aachen;;;;;;;;;;;;x
 AAC_hms_government;Kingdom of Aachen;;;;;;;;;;;;x
 AAC_proletarian_dictatorship;Aachen Commune;;;;;;;;;;;;x
-AAC_republic;Aachen Republic;;;;;;;;;;;;x
-BAV_monarchy;Bavarian Union
-BAV_republic;Bavarian Confederation
+AAC_democracy;Aachen Republic;;;;;;;;;;;;x
+AAC_free_city;Free City of Aachen;;;;;;;;;;;;x
+BAV_absolute_monarchy;Bavarian Union
+BAV_democracy;Bavarian Confederation
+SLZ;Salzburg;;;;;;;;;;;;;;x
+SLZ_ADJ;Salzburg;;;;;;;;;;x
+SLZ_bourgeois_dictatorship;Salzburg;;;;;;;;;;;;;;
+SLZ_absolute_monarchy;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_prussian_constitutionalism;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_hms_government;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_proletarian_dictatorship;Salzburg Commune;;;;;;;;;;;;x
+SLZ_theocracy;Prince-Bishopric Of Salzburg
+SLZ_democracy;Salzburg Republic;;;;;;;;;;;;x
+SLZ;Salzburg;;;;;;;;;;;;;;x
+SLZ_ADJ;Salzburg;;;;;;;;;;x
+SLZ_bourgeois_dictatorship;Salzburg;;;;;;;;;;;;;;
+SLZ_absolute_monarchy;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_prussian_constitutionalism;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_hms_government;Kingdom of Salzburg;;;;;;;;;;;;x
+SLZ_proletarian_dictatorship;Salzburg Commune;;;;;;;;;;;;x
+SLZ_theocracy;Prince-Bishopric Of Salzburg
+SLZ_democracy;Salzburg Republic;;;;;;;;;;;;x
+ULM;Ulm;;;;;;;;;;;;;;X
+ULM_ADJ;Ulm;;;;;;;;;;X
+ULM_bourgeois_dictatorship;Ulm;;;;;;;;;;;;;;
+ULM_absolute_monarchy;Kingdom of Ulm;;;;;;;;;;;;X
+ULM_prussian_constitutionalism;Kingdom of Ulm;;;;;;;;;;;;X
+ULM_hms_government;Kingdom of Ulm;;;;;;;;;;;;X
+ULM_proletarian_dictatorship;Ulm Commune;;;;;;;;;;;;X
+ULM_democracy;Ulm Republic;;;;;;;;;;;;X
+ULM_free_city;Free City of Ulm;;;;;;;;;;;;X
+WOR;Worms;;;;;;;;;;;;;;X
+WOR_ADJ;Worms;;;;;;;;;;X
+WOR_bourgeois_dictatorship;Worms;;;;;;;;;;;;;;
+WOR_absolute_monarchy;Kingdom of Worms;;;;;;;;;;;;X
+WOR_prussian_constitutionalism;Kingdom of Worms;;;;;;;;;;;;X
+WOR_hms_government;Kingdom of Worms;;;;;;;;;;;;X
+WOR_proletarian_dictatorship;Worms Commune;;;;;;;;;;;;X
+WOR_democracy;Worms Republic;;;;;;;;;;;;X
+WOR_free_city;Free City of Worms;;;;;;;;;;;;X
+WOR_theocracy;Prince-Bishopric of Worms
 ;;;;;;;;;;;;;x

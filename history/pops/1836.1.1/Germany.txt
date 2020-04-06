@@ -5467,3 +5467,60 @@
 		size = 4006         
 	}
 }
+
+#Worms
+3276 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 75 
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 75 
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 100 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1500 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 100      
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 650
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 5000         
+	}
+}

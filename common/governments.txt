@@ -145,6 +145,20 @@ federal_democracy = {
 	flagType = republic
 }
 
+free_city = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	communist = yes
+	anarcho_liberal = yes
+	fascist = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+}
+
 theocracy = {
 	#which ideology of parties.
 	reactionary = yes
