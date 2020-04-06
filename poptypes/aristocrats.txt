@@ -1455,6 +1455,17 @@ ideologies = {
 		}
 		
 		modifier = {
+			factor = 2.0
+			OR = {
+				country = { government = colonial_company }
+				country = { government = colony }
+			}
+			
+			NOT = { militancy = 3 }
+
+		}
+		
+		modifier = {
 			factor = 0.5
 			consciousness = 6
 		}		
@@ -2049,6 +2060,20 @@ ideologies = {
 			OR = {
 				nationalvalue = nv_autocracy
 				nationalvalue = nv_tradition
+			}
+		}
+		
+		modifier = {
+			factor = 0.5
+			AND = {
+				OR = {
+					country = { government = colony }
+					country = { government = colonial_company }
+				}
+				
+				NOT = {
+					militancy = 4
+				}
 			}
 		}
 		

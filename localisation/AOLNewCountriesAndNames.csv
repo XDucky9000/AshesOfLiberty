@@ -2,7 +2,12 @@
 USA_conservative;Neutralists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 USA_liberal;Patriots;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 USA_reactionary;Loyalists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-USA_colonial_company;Thirteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+USA_colonial_company;Fourteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+MEX_colonial_company;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+USA_colony;Fourteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+MEX_colony;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+colony;Colonial Administration;;;;;;;;;;;;x
+colony;Governor;;;;;;;;;;;;x
 NYS;New York;;;;;;;;;;;;;;
 NYS_ADJ;New York;;;;;;;;;;
 NYS_bourgeois_dictatorship;New York;;;;;;;;;;;;;;
@@ -37,4 +42,47 @@ VRG_reactionary;Dixiecrats;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 VRG_anarcho_liberal;Radical Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 VRG_liberal;Republican Party;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 VRG_liberal_1;Whigs;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+FLU;Louisiane;;;;;;;;;;;;;;x
+FLU_ADJ;Louisianian;;;;;;;;;;x
+FLU_bourgeois_dictatorship;Louisiane;;;;;;;;;;;;;;x
+FLU_absolute_monarchy;Louisiane Empire;;;;;;;;;;;;x
+FLU_prussian_constitutionalism;Louisiane Empire;;;;;;;;;;;;x
+FLU_hms_government;Kingdom of Louisiane;;;;;;;;;;;;x
+FLU_proletarian_dictatorship;Commune de Louisiane;;;;;;;;;;;;x
+FLU_colonial_company;Dominion of Louisiane;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+CLG;Cologne;;;;;;;;;;;;;;x
+CLG_ADJ;Cologne;;;;;;;;;;x
+CLG_ADJ_theocracy;Test;;;;;x
+CLG_bourgeois_dictatorship;Cologne;;;;;;;;;;;;;;x
+CLG_absolute_monarchy;Kingdom of Cologne;;;;;;;;;;;;x
+CLG_prussian_constitutionalism;Kingdom of Cologne;;;;;;;;;;;;x
+CLG_hms_government;Kingdom of Cologne;;;;;;;;;;;;x
+CLG_proletarian_dictatorship;Cologne Commune;;;;;;;;;;;;x
+CLG_theocracy;Archbishopric of Cologne;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;,,,,,,,,,
+TRR;Trier;;;;;;;;;;;;;;x
+TRR_ADJ;Trier;;;;;;;;;;x
+TRR_bourgeois_dictatorship;Trier;;;;;;;;;;;;;;
+TRR_absolute_monarchy;Kingdom of Trier;;;;;;;;;;;;x
+TRR_prussian_constitutionalism;Kingdom of Trier;;;;;;;;;;;;x
+TRR_hms_government;Kingdom of Trier;;;;;;;;;;;;x
+TRR_proletarian_dictatorship;Trier Commune;;;;;;;;;;;;x
+TRR_theocracy;Archbishopric of Trier;;;;;;;;;;;;x
+MNZ;Mainz;;;;;;;;;;;;;;x
+MNZ_ADJ;Mainz;;;;;;;;;;x
+MNZ_bourgeois_dictatorship;Mainz;;;;;;;;;;;;;;
+MNZ_absolute_monarchy;Kingdom of Mainz;;;;;;;;;;;;x
+MNZ_prussian_constitutionalism;Kingdom of Mainz;;;;;;;;;;;;x
+MNZ_hms_government;Kingdom of Mainz;;;;;;;;;;;;x
+MNZ_proletarian_dictatorship;Mainz Commune;;;;;;;;;;;;x
+MNZ_theocracy;Archbishopric of Mainz;;;;;;;;;;;;x
+AAC;Aachen;;;;;;;;;;;;;;x
+AAC_ADJ;Aachen;;;;;;;;;;x
+AAC_bourgeois_dictatorship;Aachen;;;;;;;;;;;;;;
+AAC_absolute_monarchy;Kingdom of Aachen;;;;;;;;;;;;x
+AAC_prussian_constitutionalism;Kingdom of Aachen;;;;;;;;;;;;x
+AAC_hms_government;Kingdom of Aachen;;;;;;;;;;;;x
+AAC_proletarian_dictatorship;Aachen Commune;;;;;;;;;;;;x
+AAC_republic;Aachen Republic;;;;;;;;;;;;x
+BAV_monarchy;Bavarian Union
+BAV_republic;Bavarian Confederation
 ;;;;;;;;;;;;;x

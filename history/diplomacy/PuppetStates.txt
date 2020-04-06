@@ -1,8 +1,8 @@
-#France - Louisana
+#Spain - Louisana
 substate = {
-	first = FRA
+	first = SPA
 	second = ULA
-	start_date = 1682.1.1
+	start_date = 1773.1.1
 	end_date = 1936.1.1
 }
 
@@ -34,6 +34,38 @@ substate = {
 substate = {
 	first = SPA
 	second = CLM
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Cologne
+substate = {
+	first = AUS
+	second = CLG
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Mainz
+substate = {
+	first = AUS
+	second = MNZ
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Bavaria
+substate = {
+	first = AUS
+	second = BAV
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Trier
+substate = {
+	first = AUS
+	second = TRR
 	start_date = 1717.1.1
 	end_Date = 1936.1.1
 }

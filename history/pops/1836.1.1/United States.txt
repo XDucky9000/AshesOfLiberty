@@ -2071,7 +2071,7 @@
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	farmers = {
@@ -2083,7 +2083,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 200
+		size = 100
 	}
 
 	farmers = {
@@ -6127,7 +6127,7 @@
 	farmers = {
 		culture = yankee
 		religion = catholic
-		size = 2000
+		size = 1000
 	}
 	
 	clergymen = {
@@ -6755,7 +6755,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -7343,7 +7343,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -7999,7 +7999,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -8075,7 +8075,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -8878,7 +8878,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1300
+		size = 500
 	}
 
 	farmers = {
@@ -8960,7 +8960,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1175
+		size = 500
 	}
 
 	farmers = {
@@ -9035,7 +9035,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1175
+		size = 500
 	}
 
 	farmers = {
@@ -9129,7 +9129,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 3000
+		size = 1000
 	}
 
 	farmers = {
@@ -9599,7 +9599,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -9841,7 +9841,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -10253,7 +10253,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -11220,7 +11220,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 50
+		size = 25
 	}
 
 	farmers = {
@@ -11244,7 +11244,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -11326,7 +11326,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -11384,7 +11384,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 	
 	bureaucrats = {
@@ -11414,7 +11414,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 600
+		size = 300
 	}
 
 	farmers = {
@@ -11446,7 +11446,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -11470,7 +11470,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 375
+		size = 150
 	}
 
 	farmers = {
@@ -11494,7 +11494,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 75
+		size = 35
 	}
 
 	farmers = {
@@ -11521,7 +11521,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -11545,7 +11545,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	farmers = {
@@ -11604,7 +11604,7 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -11654,7 +11654,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 75
+		size = 35
 	}
 
 	farmers = {

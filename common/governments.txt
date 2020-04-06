@@ -34,6 +34,13 @@ colonial_company = {
 	appoint_ruling_party = yes
 }
 
+colony = {
+	reactionary = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
 dominion = {
 	liberal = yes
 	socialist = yes

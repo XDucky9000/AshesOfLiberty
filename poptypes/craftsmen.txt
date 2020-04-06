@@ -1673,10 +1673,7 @@ ideologies = {
 	
 	reactionary = {
 		factor = 1
-		modifier = {
-			factor = 0.5
-			not = { militancy = 6 }
-		}
+
 		modifier = {
 			factor = 1.2
 			ruling_party_ideology = reactionary
@@ -1716,6 +1713,17 @@ ideologies = {
 					country = { civilized = yes }
 				}
 			}
+		}
+		
+		modifier = {
+			factor = 1.5
+			OR = {
+				country = { government = colonial_company }
+				country = { government = colony }
+			}
+			
+			NOT = { militancy = 3 }
+
 		}
 		
 		modifier = {
@@ -2178,6 +2186,19 @@ ideologies = {
 	liberal = {
 		factor = 1.1
 		modifier = {
+			factor = 0.5
+			AND = {
+				OR = {
+					country = { government = colony }
+					country = { government = colonial_company }
+				}
+				
+				NOT = {
+					militancy = 4
+				}
+			}
+		}
+		modifier = {
 			factor = 0.9
 			OR = { is_accepted_culture = yes is_primary_culture = yes }
 			OR = {
@@ -2197,7 +2218,16 @@ ideologies = {
 		}
 		modifier = {
 			factor = 0.5
-			militancy = 6
+			AND = {
+				NOT = {
+					OR = {
+						country = { government = colony }
+						country = { government = colonial_company }
+					}
+				}
+				militancy = 6
+			}
+
 		}
 		modifier = {
 			factor = 1.2
