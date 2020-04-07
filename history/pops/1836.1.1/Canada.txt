@@ -3007,8 +3007,8 @@
 	}
 
 	bureaucrats = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 3
 	}
 
@@ -3027,8 +3027,8 @@
 	}
 
 	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = mexican
+		religion = catholic
 		size = 12
 	}
 
@@ -3039,9 +3039,9 @@
 	}
 	
 	farmers = {
-		culture = french_canadian
+		culture = mexican
 		religion = catholic
-		size = 10
+		size = 12
 	}
 
 }
