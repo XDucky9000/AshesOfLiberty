@@ -2807,13 +2807,13 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size = 275 
+		size = 500 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 25800 
+		size = 35800 
 	}
 }
 #Saarbrucken (308000/77000 POPS)
