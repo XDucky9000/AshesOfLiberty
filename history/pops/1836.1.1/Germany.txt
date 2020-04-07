@@ -3805,7 +3805,7 @@
 }
 #Baden Region (1040000) 
 #under the rule of Baden in 1836  
-#Karlsruhe (632000/158000 POPS - Speyer = ~90k)
+#Karlsruhe (632000/158000 POPS)
 586 = {
 	aristocrats = {
 		culture = south_german
@@ -3846,7 +3846,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 79650 
+		size = 139650 
 	}
 
 	clergymen = {
@@ -5473,111 +5473,54 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 600 
+		size = 75 
 	}
 
 	bureaucrats = {
 		culture = north_german
 		religion = protestant
-		size = 650 
+		size = 75 
 	}
 
 	officers = {
 		culture = north_german
 		religion = protestant
-		size = 300 
+		size = 100 
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 250
+		size = 50
 	}
 
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 200
+		size = 100
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 5000 
+		size = 1500 
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = catholic
-		size = 630     
+		size = 100      
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 1820
+		size = 650
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 10050         
-	}
-}
-
-#Speyer
-3277 = { #Roughly 60k people
-	aristocrats = {
-		culture = north_german
-		religion = protestant
-		size = 1000 
-	}
-
-	bureaucrats = {
-		culture = north_german
-		religion = protestant
-		size = 1000 
-	}
-
-	officers = {
-		culture = north_german
-		religion = protestant
-		size = 300 
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 200
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 5000
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 20000
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = catholic
-		size = 1000      
-	}
-
-	artisans = {
-		culture = north_german
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = north_german
-		religion = catholic
-		size = 30000         
+		size = 5000         
 	}
 }
