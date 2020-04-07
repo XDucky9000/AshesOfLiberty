@@ -7,9 +7,9 @@ union = {
 }
 
 # United Kingdom-Hanover (George III, George IV, William IV)
-union = {
-	first = ENG
-	second = HAN
-	start_date = 1814.10.12
-	end_date = 1837.6.20
-}
+#union = {
+#	first = ENG
+#	second = HAN
+#	start_date = 1814.10.12
+#	end_date = 1837.6.20
+#}

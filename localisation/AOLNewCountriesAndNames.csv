@@ -85,8 +85,8 @@ AAC_hms_government;Kingdom of Aachen;;;;;;;;;;;;x
 AAC_proletarian_dictatorship;Aachen Commune;;;;;;;;;;;;x
 AAC_democracy;Aachen Republic;;;;;;;;;;;;x
 AAC_free_city;Free City of Aachen;;;;;;;;;;;;x
-BAV_absolute_monarchy;Bavarian Union
-BAV_democracy;Bavarian Confederation
+BAV_absolute_monarchy;Bavarian Union;;;;;;;;;;;;;x
+BAV_democracy;Bavarian Confederation;;;;;;;;;;;;;;;x
 SLZ;Salzburg;;;;;;;;;;;;;;x
 SLZ_ADJ;Salzburg;;;;;;;;;;x
 SLZ_bourgeois_dictatorship;Salzburg;;;;;;;;;;;;;;
@@ -124,4 +124,14 @@ WOR_proletarian_dictatorship;Worms Commune;;;;;;;;;;;;X
 WOR_democracy;Worms Republic;;;;;;;;;;;;X
 WOR_free_city;Free City of Worms;;;;;;;;;;;;X
 WOR_theocracy;Prince-Bishopric of Worms
+SPY;Speyer;;;;;;;;;;;;;;X
+SPY_ADJ;Speyer;;;;;;;;;;X
+SPY_bourgeois_dictatorship;Speyer;;;;;;;;;;;;;;
+SPY_absolute_monarchy;Kingdom of Speyer;;;;;;;;;;;;X
+SPY_prussian_constitutionalism;Kingdom of Speyer;;;;;;;;;;;;X
+SPY_hms_government;Kingdom of Speyer;;;;;;;;;;;;X
+SPY_proletarian_dictatorship;Speyer Commune;;;;;;;;;;;;X
+SPY_democracy;Speyer Republic;;;;;;;;;;;;X
+SPY_free_city;Free City of Speyer;;;;;;;;;;;;X
+SPY_theocracy;Prince-Bishopric of Speyer
 ;;;;;;;;;;;;;x
