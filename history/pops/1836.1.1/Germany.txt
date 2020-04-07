@@ -2807,13 +2807,13 @@
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size = 275 
+		size = 500 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 25800 
+		size = 35800 
 	}
 }
 #Saarbrucken (308000/77000 POPS)
@@ -5471,112 +5471,130 @@
 #Worms
 3276 = {
 	aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 600 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
-		size = 650 
+		size = 950 
 	}
 
 	officers = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 300 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
-		size = 5000 
+		size = 10000 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 630     
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
-		size = 1820
+		size = 4820
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
-		size = 10050         
+		size = 20050         
+	}
+	
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1050
+	}
+	
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1050
+	}
+	
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 500
 	}
 }
 
 #Speyer
 3279 = { #Roughly 60k people
 	aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 1000 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 1000 
 	}
 
 	officers = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 300 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 5000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = protestant
 		size = 20000
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1000      
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 30000         
 	}

@@ -2,9 +2,9 @@
 USA_conservative;Neutralists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 USA_liberal;Patriots;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 USA_reactionary;Loyalists;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-USA_colonial_company;Fourteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+USA_colonial_company;North American Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 MEX_colonial_company;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
-USA_colony;Fourteen Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
+USA_colony;North American Colonies;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 MEX_colony;New Spain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 colony;Colonial Administration;;;;;;;;;;;;x
 colony_ruler;Governor;;;;;;;;;;;;x
