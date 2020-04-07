@@ -11619,71 +11619,27 @@
 		size = 400
 	}
 }
-#Bay - Placeholder - ruled by America aka Thirteen Colonies
+#Bay - PLACEHOLDER - America
 3275 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 25
-	}
-
-	officers = {
-		culture = dixie
-		religion = protestant
-		size = 25
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 175
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 35
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 12
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 80
-	}
-
 	farmers = {
 		culture = afro_american
 		religion = protestant
 		size = 10
 	}
-
-	slaves = {
+}
+#Mora - PLACEHOLDER - Mexico
+3280 = {
+	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 10000
+		size = 10
+	}
+}
+#Clarksville - PLACEHOLDER - Mexico
+3281 = {
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 10
 	}
 }
