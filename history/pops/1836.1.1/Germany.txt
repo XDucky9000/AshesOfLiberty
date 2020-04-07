@@ -5526,7 +5526,7 @@
 }
 
 #Speyer
-3277 = { #Roughly 60k people
+3279 = { #Roughly 60k people
 	aristocrats = {
 		culture = north_german
 		religion = protestant
