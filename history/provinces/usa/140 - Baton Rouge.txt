@@ -1,8 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core = ULA
-add_core = FLU
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cotton
 life_rating = 35
 

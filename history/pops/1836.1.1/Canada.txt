@@ -2997,3 +2997,51 @@
 	}
 
 }
+#Frenchman's Creek and Pakowki
+#Basically unpopulated
+3277 = {	#Pakowki
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 20
+	}
+
+	bureaucrats = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 3
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 150
+	}
+
+}
+3278 = {	#Frenchman's Creek
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 65
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 12
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 270
+	}
+	
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 10
+	}
+
+}
