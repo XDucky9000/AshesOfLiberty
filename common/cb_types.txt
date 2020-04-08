@@ -39,6 +39,7 @@
 
 # Order that CBs are executed in a peace treaty
 peace_order = {
+liberate_HRE_prince
 treaty_port_casus_belli
 war_reparations
 become_independent
@@ -1995,6 +1996,55 @@ free_peoples = {
 	}
 }
 
+#Liberate HRE prince
+liberate_HRE_prince = {
+	sprite_index = 15
+	months = 12
+	badboy_factor = 1
+	prestige_factor = 10
+	
+	peace_cost_factor = 1
+	penalty_factor = 1
+	
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	can_use = {
+		THIS = { tag = AUS }
+	}
+	
+	allowed_countries = {
+		FROM = { has_country_flag = HRE_prince }
+		FROM = { exists = no }
+	}
+	
+	allowed_states = {
+		any_owned_province = { is_core = FROM }
+	}
+	all_allowed_states = yes
+	po_transfer_provinces = yes
+	po_release_puppet = yes
+
+	war_name = WAR_LIBERATE_HRE_PRINCE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+	
+	on_po_accepted = {
+		country_event =	2651	# Territorial Loss event
+	}
+}
 # Liberate country
 liberate_country = {
 	sprite_index = 15
