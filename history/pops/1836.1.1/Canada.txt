@@ -3006,12 +3006,6 @@
 		size = 20
 	}
 
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 3
-	}
-
 	farmers = {
 		culture = native_american_minor
 		religion = animist
@@ -3026,22 +3020,10 @@
 		size = 65
 	}
 
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 12
-	}
-
 	farmers = {
 		culture = native_american_minor
 		religion = animist
 		size = 270
-	}
-	
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 12
 	}
 
 }
