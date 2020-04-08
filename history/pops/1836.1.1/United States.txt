@@ -7588,103 +7588,103 @@
 		size = 3900
 	}
 }
-#St Augustine (48000/12000 POPS)
+#St Augustine (48000/12000 POPS) + 20%
 199 = {
 	aristocrats = {
 		culture = dixie
 		religion = catholic
-		size = 5
+		size = 6
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = catholic
-		size = 5
+		size = 6
 	}
 
 	artisans = {
 		culture = dixie
 		religion = catholic
-		size = 25
+		size = 30
 	}
 
 	farmers = {
 		culture = dixie
 		religion = catholic
-		size = 125
+		size = 150
 	}
 	
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 150
+		size = 180
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 325
+		size = 390
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 125
+		size = 150
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 7350
+		size = 8820
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 10
+		size = 12
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 80
+		size = 96
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 10
+		size = 12
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 3900
+		size = 5850	#+50%
 	}
 }
-#Tampa (8000/2000 POPS)
+#Tampa (24000/6000 POPS)
 200 = {
 	aristocrats = {
-		culture = native_american_minor
-		religion = animist
+		culture = dixie
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
+		culture = dixie
+		religion = protestant
+		size = 36
 	}
 
 	artisans = {
-		culture = native_american_minor
-		religion = animist
+		culture = dixie
+		religion = protestant
 		size = 100
 	}
 
@@ -7693,11 +7693,29 @@
 		religion = animist
 		size = 25
 	}
+	
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 20
+	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1800
+		size = 1303
+	}
+	
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 2216
+	}
+	
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1988
 	}
 }
 #Georgia Region (628000)
@@ -11619,71 +11637,109 @@
 		size = 400
 	}
 }
-#Bay - Placeholder - ruled by America aka Thirteen Colonies
+#Bay - (30000/7500 POPS) - America
 3275 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
+	
 	bureaucrats = {
 		culture = dixie
 		religion = protestant
-		size = 25
+		size = 15
 	}
-
-	officers = {
-		culture = dixie
-		religion = protestant
-		size = 25
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 175
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 35
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 12
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 80
-	}
-
-	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
-	}
-
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 10000
+		size = 3750
+	}
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 3163
+	}
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 225
+	}
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 46
+	}
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 8
+	}
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 310
+	}
+
+}
+#Mora - PLACEHOLDER - Mexico
+3280 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
+	}
+}
+#Clarksville - PLACEHOLDER - Mexico
+3281 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
 	}
 }
