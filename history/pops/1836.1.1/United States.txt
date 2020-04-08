@@ -11621,25 +11621,100 @@
 }
 #Bay - PLACEHOLDER - America
 3275 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
 	}
 }
 #Mora - PLACEHOLDER - Mexico
 3280 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
 	}
 }
 #Clarksville - PLACEHOLDER - Mexico
 3281 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
 	}
 }
