@@ -3276,3 +3276,12 @@ foreign_weapons_imported = {
 	icon = 9
 }
 
+###AOL new added###
+reichsnotfall_extended = {
+	global_pop_consciousness_modifier = 0.05
+	global_pop_militancy_modifier = 0.05
+	diplomatic_points_modifier = -0.05
+	cb_generation_speed_modifier = 1.2
+	icon = 5
+}
+

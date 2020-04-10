@@ -39,7 +39,7 @@ substate = {
 }
 
 #Austria - Cologne
-substate = {
+vassal = {
 	first = AUS
 	second = CLG
 	start_date = 1717.1.1
