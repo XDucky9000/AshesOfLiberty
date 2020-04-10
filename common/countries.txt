@@ -682,11 +682,12 @@ FLU 	= "countries/French Louisiana.txt"
 VRG		= "countries/Virginia.txt"
 
 #HRE New Tags
+HRE		= "countries/Holy Roman Empire.txt"
 CLG		= "countries/Cologne.txt"
 TRR 	= "countries/Trier.txt"
 MNZ 	= "countries/Mainz.txt"
 AAC		= "countries/Aachen.txt"
-#KLE		= "countries/Kleve.txt"
+#KLE	= "countries/Kleve.txt"
 SLZ		= "countries/Salzburg.txt"
 ULM		= "countries/Ulm.txt"
 SPY 	= "countries/Speyer.txt"
