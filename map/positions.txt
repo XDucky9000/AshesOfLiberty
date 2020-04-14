@@ -8372,8 +8372,13 @@
 
 197 = {
     text_position = {
+<<<<<<< Updated upstream
         x = 1433.000000
         y = 1469.040000
+=======
+        x = 1432.300000
+        y = 1462.750000
+>>>>>>> Stashed changes
     }
 
     text_scale = 2.899999
@@ -120359,3 +120364,257 @@
     }
 
 }
+<<<<<<< Updated upstream
+=======
+
+# Bay
+3275 = {
+    text_position = {
+        x = 1458.266667
+        y = 1460.960000
+    }
+
+    text_scale = 3.5
+    unit = {
+        x = 1462.426667
+        y = 1461.813333
+    }
+
+    city = {
+        x = 1468.346667
+        y = 1454.506667
+    }
+
+    factory = {
+        x = 1466.693333
+        y = 1457.546667
+    }
+
+    building_construction = {
+        x = 1451.813333
+        y = 1460.426667
+    }
+
+    military_construction = {
+        x = 1448.506667
+        y = 1463.520000
+    }
+
+    building_position = {
+        fort = {
+            x = 1460.720000
+            y = 1463.520000
+        }
+
+        railroad = {
+            x = 1466.533333
+            y = 1460.266667
+        }
+
+        naval_base = {
+            x = 1468.186667
+            y = 1451.466667
+        }
+
+    }
+
+}
+
+3276 = {
+    text_position = {
+        x = 2939.550000
+        y = 1617.800000
+    }
+
+    text_scale = 2
+    unit = {
+        x = 2940.050000
+        y = 1618.850000
+    }
+
+    city = {
+        x = 2936.700000
+        y = 1618.950000
+    }
+
+    factory = {
+        x = 2935.700000
+        y = 1617.800000
+    }
+
+    building_construction = {
+        x = 2935.550000
+        y = 1619.600000
+    }
+
+    military_construction = {
+        x = 2941.400000
+        y = 1618.650000
+    }
+
+    building_position = {
+        fort = {
+            x = 2937.500000
+            y = 1621.600000
+        }
+
+        railroad = {
+            x = 2935.550000
+            y = 1620.300000
+        }
+
+        naval_base = {
+            x = 2940.150000
+            y = 1620.700000
+        }
+
+    }
+
+    spawn_railway_track = {
+        empty = {
+            x = 2939.400000
+            y = 1619.500000
+        }
+
+    }
+
+}
+
+3277 = {
+    text_position = {
+        x = 1063.850000
+        y = 1808.800000
+    }
+
+    text_scale = 3
+    unit = {
+        x = 1063.700000
+        y = 1811.500000
+    }
+
+    city = {
+        x = 1082.150000
+        y = 1813.700000
+    }
+
+    factory = {
+        x = 1078.150000
+        y = 1811.550000
+    }
+
+    building_construction = {
+        x = 1085.950000
+        y = 1811.000000
+    }
+
+    military_construction = {
+        x = 1045.800000
+        y = 1811.100000
+    }
+
+    building_position = {
+        fort = {
+            x = 1053.000000
+            y = 1812.550000
+        }
+
+        railroad = {
+            x = 1059.350000
+            y = 1811.850000
+        }
+
+    }
+
+}
+
+3278 = {
+    text_position = {
+        x = 1124.900000
+        y = 1807.450000
+    }
+
+    text_scale = 3
+    unit = {
+        x = 1125.600000
+        y = 1810.300000
+    }
+
+    city = {
+        x = 1098.550000
+        y = 1811.850000
+    }
+
+    factory = {
+        x = 1144.650000
+        y = 1811.300000
+    }
+
+    building_construction = {
+        x = 1160.750000
+        y = 1808.200000
+    }
+
+    military_construction = {
+        x = 1105.450000
+        y = 1809.650000
+    }
+
+    building_position = {
+        fort = {
+            x = 1102.650000
+            y = 1816.050000
+        }
+
+        railroad = {
+            x = 1131.850000
+            y = 1811.400000
+        }
+
+    }
+
+}
+
+3279 = {
+    text_position = {
+        x = 2937.500000
+        y = 1611.250000
+    }
+
+    text_rotation = 5.547392
+    text_scale = 2
+    unit = {
+        x = 2935.400000
+        y = 1614.700000
+    }
+
+    city = {
+        x = 2935.500000
+        y = 1614.650000
+    }
+
+    factory = {
+        x = 2935.350000
+        y = 1613.450000
+    }
+
+    building_construction = {
+        x = 2938.400000
+        y = 1609.500000
+    }
+
+    military_construction = {
+        x = 2936.700000
+        y = 1610.700000
+    }
+
+    spawn_railway_track = {
+        empty = {
+            x = 2938.000000
+            y = 1613.500000
+        }
+
+    }
+
+}
+
+>>>>>>> Stashed changes

@@ -675,3 +675,22 @@ D47		= "countries/D47.txt"
 D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
+<<<<<<< Updated upstream
+=======
+
+#AOL New Tags
+NYS		= "countries/New York.txt"
+FLU 	= "countries/French Louisiana.txt"
+VRG		= "countries/Virginia.txt"
+
+#HRE New Tags
+CLG		= "countries/Cologne.txt"
+TRR 	= "countries/Trier.txt"
+MNZ 	= "countries/Mainz.txt"
+AAC		= "countries/Aachen.txt"
+#KLE		= "countries/Kleve.txt"
+SLZ		= "countries/Salzburg.txt"
+ULM		= "countries/Ulm.txt"
+SPY 	= "countries/Speyer.txt"
+WOR 	= "countries/Worms.txt"
+>>>>>>> Stashed changes
