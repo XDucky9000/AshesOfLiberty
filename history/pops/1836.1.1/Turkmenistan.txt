@@ -97,29 +97,6 @@
 		size = 25675
 	}
 
-	clergymen = {
-		culture = persian
-		religion = shiite
-		size = 25
-	}
-
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 200
-	}
-
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 25
-	}
-
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 3750
-	}
 }
 #Kizil Arvut (88000/22000 POPS)   
 1205 = {
@@ -151,18 +128,6 @@
 		culture = turkmen
 		religion = sunni
 		size = 6400
-	}
-
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 200
-	}
-
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 700
 	}
 }
 #under the rule of Bukhara in 1836  
@@ -259,36 +224,6 @@
 		culture = turkmen
 		religion = sunni
 		size = 5000
-	}
-	
-	aristocrats = {
-		culture = persian
-		religion = shiite
-		size = 50
-	}
-
-	clergymen = {
-		culture = persian
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 400
-	}
-
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 75
-	}
-
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 2425
 	}
 }
 
