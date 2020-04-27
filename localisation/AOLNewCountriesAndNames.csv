@@ -134,8 +134,6 @@ SPY_proletarian_dictatorship;Speyer Commune;;;;;;;;;;;;X
 SPY_democracy;Speyer Republic;;;;;;;;;;;;X
 SPY_free_city;Free City of Speyer;;;;;;;;;;;;X
 SPY_theocracy;Prince-Bishopric of Speyer
-<<<<<<< HEAD
-=======
 HRE_ADJ;Imperial;Imperial;Imperial;;;;;;;;;;;x;
 HRE;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
 HRE_proletarian_dictatorship;German People's Republic;German People's Republic;German People's Republic;;;;;;;;;;;x;
@@ -155,5 +153,4 @@ HRE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 HRE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 HRE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 HRE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
->>>>>>> master
 ;;;;;;;;;;;;;x
