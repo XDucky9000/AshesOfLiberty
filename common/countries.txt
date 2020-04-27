@@ -39,7 +39,7 @@ WSF 	= "countries/Zapadoslavia.txt"
 ANT		= "countries/Anatolia.txt"
 RUM		= "countries/Eastern Rumelia.txt"
 SAM		= "countries/Samos.txt"
-URP 	= "countries/United Principalities.txt" 
+URP 	= "countries/United Principalities.txt"
 GCF 	= "countries/German Confederation.txt"
 VLG 	= "countries/Volga.txt"
 SMR		= "countries/San Marino.txt"
@@ -365,7 +365,7 @@ SNZ     = "countries/South Island.txt"
 TGA		= "countries/Tonga.txt"
 ####HPM######
 PPG		= "countries/Papua New Guinea.txt"
-VTU		= "countries/Vanuatu.txt" 
+VTU		= "countries/Vanuatu.txt"
 SMO		= "countries/Samoa.txt"
 
 ### END OF NEW NATIONS MOD ###
@@ -675,11 +675,7 @@ D47		= "countries/D47.txt"
 D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> master
 
 #AOL New Tags
 NYS		= "countries/New York.txt"
@@ -687,24 +683,14 @@ FLU 	= "countries/French Louisiana.txt"
 VRG		= "countries/Virginia.txt"
 
 #HRE New Tags
-<<<<<<< HEAD
-=======
 HRE		= "countries/Holy Roman Empire.txt"
->>>>>>> master
 CLG		= "countries/Cologne.txt"
 TRR 	= "countries/Trier.txt"
 MNZ 	= "countries/Mainz.txt"
 AAC		= "countries/Aachen.txt"
-<<<<<<< HEAD
-#KLE		= "countries/Kleve.txt"
-=======
 #KLE	= "countries/Kleve.txt"
->>>>>>> master
 SLZ		= "countries/Salzburg.txt"
 ULM		= "countries/Ulm.txt"
 SPY 	= "countries/Speyer.txt"
 WOR 	= "countries/Worms.txt"
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> master
+BRG 	= "countries/Brandenburg.txt"

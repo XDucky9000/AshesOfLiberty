@@ -1,0 +1,58 @@
+#HRE Prince liberated
+country_event = {
+	id = 800001
+	title = "EVTNAME800001" #Swear allegiance to HRE
+	desc = "EVTDESC800001"
+	picture = "Unite"
+	
+	trigger = {
+		AND = {
+			has_country_flag = HRE_prince
+			is_sphere = AUS
+			NOT = {
+				has_global_flag = HRE_dead
+			}
+			
+			NOT = {
+				has_country_flag = left_HRE
+			}
+			
+			NOT = {
+				vassal_of = AUS
+			}
+			
+			NOT = {
+				tag = AUS
+			}
+			
+			war = no
+		}
+
+	}
+	
+	mean_time_to_happen = {
+		days = 0
+	}
+	
+	option = {
+		name = "EVTOPT800001"
+		AUS = {
+			country_event = 800002
+		}
+	}
+}
+
+country_event = {
+	id = 800002
+	title = "EVTNAME800002" #Accept prince back into HRE
+	desc = "EVTDESC800002"
+	picture = "Unite"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPT800002"
+			
+		create_vassal = FROM
+	}
+}
