@@ -39,7 +39,7 @@ WSF 	= "countries/Zapadoslavia.txt"
 ANT		= "countries/Anatolia.txt"
 RUM		= "countries/Eastern Rumelia.txt"
 SAM		= "countries/Samos.txt"
-URP 	= "countries/United Principalities.txt" 
+URP 	= "countries/United Principalities.txt"
 GCF 	= "countries/German Confederation.txt"
 VLG 	= "countries/Volga.txt"
 SMR		= "countries/San Marino.txt"
@@ -365,7 +365,7 @@ SNZ     = "countries/South Island.txt"
 TGA		= "countries/Tonga.txt"
 ####HPM######
 PPG		= "countries/Papua New Guinea.txt"
-VTU		= "countries/Vanuatu.txt" 
+VTU		= "countries/Vanuatu.txt"
 SMO		= "countries/Samoa.txt"
 
 ### END OF NEW NATIONS MOD ###
@@ -675,6 +675,7 @@ D47		= "countries/D47.txt"
 D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
+=======
 
 #AOL New Tags
 NYS		= "countries/New York.txt"
