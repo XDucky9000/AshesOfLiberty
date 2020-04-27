@@ -456,10 +456,10 @@ political_decisions = {
 	
 	clean_up_freed_colonial_govt = {
 		potential = {
-			is_vassal = no
 			OR = {
 				government = colonial_company
 				government = dominion
+				government = colony
 			}
 			NOT = { 
 				tag = EIC 

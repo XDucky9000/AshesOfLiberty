@@ -1,0 +1,113 @@
+political_decisions = {
+	
+	codify_reichsnotfall = {
+		potential = {
+			AND = {
+				is_greater_power = yes
+				tag = AUS
+				
+				NOT = {
+					has_global_flag = HRE_dead
+				}
+				
+				THIS = {
+					has_country_modifier = reichsnotfall_extended
+				}
+			}
+
+		}
+		
+		allow = {
+			AND = {
+				has_global_flag = reichsnotfall_extended
+
+				
+				#The three clerical electors
+				is_our_vassal = CLG
+				is_our_vassal = TRR
+				is_our_vassal = MNZ
+						
+				#Saxony starts out under Prussia, must be liberated
+				AND = {
+					SAX = {
+						exists = yes
+					}
+					
+					is_our_vassal = SAX
+				}
+				
+				#Hannover gets chance to leave HRE
+				is_our_vassal = HAN
+				
+				#Bavaria must be pacified/loyal
+				AND = {
+					BAV = {
+						OR = {
+							has_country_flag = bavaria_pacified
+							has_country_flag = bavaria_loyal
+						}
+
+					}
+					is_our_vassal = BAV
+				}
+				
+				#Prussia must be subdied
+				is_our_vassal = PRU
+				
+
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			clr_global_flag = reichsnotfall_extended
+			THIS = {
+				remove_country_modifier = reichsnotfall_extended
+			}
+			
+			set_global_flag = reichsnotfall_codified
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	form_HRE = {
+		potential = {
+			is_greater_power = yes
+			tag = AUS
+		}	
+		allow = {
+			always = yes
+		}
+		
+		effect = {
+			prestige = 15
+			random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+			random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
+			random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
+			random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
+			add_accepted_culture = north_german
+			all_core = { add_core = HRE remove_core = THIS }
+						
+			change_tag = HRE
+			any_country = {
+				limit = {
+					overlord = {
+						tag = HRE
+					}
+				}
+				
+				country_event = 11106
+			}
+
+			HRE = {
+				political_reform = federalism
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+}

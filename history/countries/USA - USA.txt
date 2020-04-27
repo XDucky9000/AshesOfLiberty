@@ -4,15 +4,15 @@ culture = dixie
 culture = texan
 culture = cajun
 religion = protestant
-government = democracy
+government = colony
 plurality = 30.0
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.65
 non_state_culture_literacy = 0.1
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 20
+prestige = 0
 
 # Political reforms
 slavery = yes_slavery
@@ -45,13 +45,13 @@ colonial_policy = settlement
 
 set_country_flag = protestant_country
 
-ruling_party = USA_conservative
+ruling_party = USA_reactionary
 last_election = 1832.5.3
 upper_house = {
 	fascist = 0
-	liberal = 37
+	liberal = 10
 	conservative = 60
-	reactionary = 3
+	reactionary = 30
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

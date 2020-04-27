@@ -1,0 +1,10 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = MTC
+add_core = ULA
+add_core = FLU
+trade_goods = grain
+terrain = steppe
+life_rating = 30
+colonial = 2

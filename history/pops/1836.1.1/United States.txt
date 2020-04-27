@@ -2071,7 +2071,7 @@
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	farmers = {
@@ -2083,7 +2083,7 @@
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 200
+		size = 100
 	}
 
 	farmers = {
@@ -3610,8 +3610,8 @@
 	}
 
 	aristocrats = {
-		culture = cajun
-		religion = catholic
+		culture = dixie
+		religion = protestant
 		size = 25
 	}
 
@@ -4891,87 +4891,37 @@
 #ruled by the USA/parts under de facto under Native Control
 #Milwaukee (16000/4000 POPS)
 159 = {
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 200
-	}
-	
 	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 10
+		culture = native_american_minor
+		religion = animist
+		size = 86
 	}
 
 	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 200
+		culture = native_american_minor
+		religion = animist
+		size = 265
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 50
+		culture = native_american_minor
+		religion = animist
+		size = 208
 	}
 
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
+		religion = animist
+		size = 5166
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
-		size = 3700
+		size = 257
 	}
 }
 #Eau Claire (4000/1000 POPS)
 160 = {
-
-	aristocrats = {
-		culture = yankee
-		religion = protestant
-		size = 5
-	}
-	
-	officers = {
-		culture = yankee
-		religion = protestant
-		size = 5
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 5
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 20
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 30
-	}
-
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
@@ -4987,311 +4937,231 @@
 #Green Bay (8000/2000 POPS)
 161 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 50
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 910
-	}
-
-	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
+		size = 30
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 91
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 15
+		size = 217
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 1786
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = protestant
+		size = 29
 	}
 }
 #Madison (8000/2000 POPS)
 162 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 15
-	}
-
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 25
+		culture = native_american_minor
+		religion = animist
+		size = 24
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 100
+		culture = native_american_minor
+		religion = animist
+		size = 75
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 25
+		culture = native_american_minor
+		religion = animist
+		size = 59
 	}
 
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
+		religion = animist
+		size = 1611
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
-		size = 1835
+		size = 114
 	}
 }
 #Illinois Region (452000)
 #ruled by the USA
-#Chicago (172000/43000 POPS)
+#Chicago (2400 POPS)
 163 = {
 	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 15
+		culture = native_american_minor
+		religion = animist
+		size = 43
 	}
 
 	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 150
+		culture = native_american_minor
+		religion = animist
+		size = 132
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = catholic
-		size = 10
+		culture = native_american_minor
+		religion = animist
+		size = 104
 	}
 
 	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 2130
+		culture = native_american_minor
+		religion = animist
+		size = 2266
 	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 275
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 2150
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 450
-	}
-
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
 		religion = protestant
-		size = 38125
+		size = 347
 	}
 }
-#Rockford (44000/11000 POPS)
+#Rockford (4400/1100 POPS)
 164 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 75
+		culture = native_american_minor
+		religion = animist
+		size = 16
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 550
+		culture = native_american_minor
+		religion = animist
+		size = 50
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 125
+		culture = native_american_minor
+		religion = animist
+		size = 39
 	}
 
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
+		religion = animist
+		size = 597
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
-		size = 10250
+		size = 396
 	}
 }
-#Champaign (36000/9000 POPS)
+#Champaign (3600/900 POPS)
 165 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
+		culture = native_american_minor
+		religion = animist
+		size = 18
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 450
+		culture = native_american_minor
+		religion = animist
+		size = 57
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 100
+		culture = native_american_minor
+		religion = animist
+		size = 45
 	}
 
 	farmers = {
+<<<<<<< HEAD
 		culture = yankee
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 1276
+	}
+	farmers = {
+		culture = native_american_minor
+>>>>>>> master
 		religion = protestant
-		size = 8400
+		size = 214
 	}
 }
-#Peoria (100000/25000 POPS)
+#Peoria (10000/2500 POPS)
 166 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 150
+		culture = native_american_minor
+		religion = animist
+		size = 37
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 1250
+		culture = native_american_minor
+		religion = animist
+		size = 141
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 250
+		culture = native_american_minor
+		religion = animist
+		size = 90
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 23350
+		culture = native_american_minor
+		religion = animist
+		size = 1657
 	}
-
-	clergymen = {
-		culture = yankee
-		religion = mormon
-		size = 100
-	}
-
-	artisans = {
-		culture = yankee
-		religion = mormon
-		size = 350
-	}
-
 	farmers = {
-		culture = yankee
-		religion = mormon
-		size = 4000
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = mormon
-		size = 250
+		culture = native_american_minor
+		religion = protestant
+		size = 601
 	}
 }
-#Springfield (36000/9000 POPS)
+#Springfield (4800/1200 POPS)
 167 = {
 	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 15
+		culture = native_american_minor
+		religion = animist
+		size = 18
 	}
 
 	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
+		culture = native_american_minor
+		religion = animist
+		size = 57
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = catholic
-		size = 10
+		culture = native_american_minor
+		religion = animist
+		size = 45
 	}
 
 	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 130
+		culture = native_american_minor
+		religion = animist
+		size = 1032
 	}
-	
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 200
-	}
-
-	officers = {
-		culture = yankee
-		religion = protestant
-		size = 125
-	}
-
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 450
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 100
-	}
-
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
 		religion = protestant
-		size = 8075
+		size = 106
 	}
 }
-#Carbondale (68000/17000 POPS)
+#Carbondale (6800/1700 POPS)
 168 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 		size = 100
@@ -5346,25 +5216,42 @@
 		culture = afro_american
 		religion = protestant
 		size = 110
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 26
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 82
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 64
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = native_american_minor
+		religion = animist
+		size = 1623
+>>>>>>> master
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
-		size = 875
+		size = 62
 	}
 }
 #Indiana Region (644000)
 #ruled by the USA
-#Indianapolis (276000/69000 POPS)
+#Indianapolis (7500 POPS)
 169 = {
-	aristocrats = {
-		culture = yankee
-		religion = catholic
-		size = 5
-	}
-
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = catholic
 		size = 15
@@ -5420,47 +5307,40 @@
 		culture = yankee
 		religion = protestant
 		size = 375
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 134
+>>>>>>> master
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 3200
+		culture = native_american_minor
+		religion = animist
+		size = 412
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 650
+		culture = native_american_minor
+		religion = animist
+		size = 325
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 64225
+		culture = native_american_minor
+		religion = animist
+		size = 8139
 	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 250
-	}
-
 	farmers = {
-		culture = north_german
+		culture = native_american_minor
 		religion = protestant
-		size = 5675
+		size = 234
 	}
 }
-#Evansville (196000/49000 POPS)
+#Evansville (19600/4900 POPS)
 170 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 		size = 325
@@ -5523,53 +5403,40 @@
 		culture = afro_american
 		religion = protestant
 		size = 150
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 73
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 224
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 176
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = native_american_minor
+		religion = animist
+		size = 4424
+>>>>>>> master
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
-		size = 1825
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 630
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 300
+		size = 877
 	}
 }
-#South Bend (44000/11000 POPS)
+#South Bend (1200 POPS)
 171 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 		size = 75
@@ -5615,18 +5482,45 @@
 =======
 		size = 100
 >>>>>>> Stashed changes
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 17
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 53
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 42
+>>>>>>> master
 	}
 
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
+		religion = animist
+		size = 1061
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 10275
+=======
+		size = 420
+>>>>>>> master
 	}
 }
-#Fort Wayne (128000/32000 POPS)
+#Fort Wayne (12800/3200 POPS)
 172 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 		size = 325
@@ -5661,118 +5555,78 @@
 =======
 		size = 175
 >>>>>>> Stashed changes
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 49
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 118
+>>>>>>> master
 	}
 
 	farmers = {
-		culture = yankee
+		culture = native_american_minor
+		religion = animist
+		size = 2969
+	}
+	farmers = {
+		culture = native_american_minor
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 29850
+=======
+		size = 654
+>>>>>>> master
 	}
 }
 #Michigan Region (148000)
 #ruled by the USA/parts under defacto native Control
-#Detroit (POPS)
+#Detroit (POPS 2300)
 173 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 150
-	}
-
-	officers = {
-		culture = yankee
-		religion = protestant
-		size = 25
-	}
-
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 150
+		culture = native_american_minor
+		religion = animist
+		size = 34
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 900
+		culture = native_american_minor
+		religion = animist
+		size = 104
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 100
+		culture = native_american_minor
+		religion = animist
+		size = 82
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 16825
+		culture = native_american_minor
+		religion = animist
+		size = 2057
 	}
-
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = catholic
-		size = 10
-	}
-
 	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 930
-	}
-	
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 150
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 1840
-	}
-	
-	craftsmen = {
-		culture = yankee
+		culture = native_american_minor
 		religion = protestant
-		size = 1000
-	}
-	
-	craftsmen = {
-		culture = yankee
-		religion = catholic
-		size = 1000
+		size = 412
 	}
 }
-#Grand Rapids (POPS)
+#Grand Rapids (1000 POPS)
 174 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 		size = 100
@@ -5840,13 +5694,40 @@
 	farmers = {
 		culture = yankee
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 16
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 48
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 38
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 962
+	}
+	farmers = {
+		culture = native_american_minor
+>>>>>>> master
 		religion = protestant
-		size = 5550
+		size = 217
 	}
 }
 #Saginaw (POPS)
 175 = {
 	clergymen = {
+<<<<<<< HEAD
 =======
 		religion = catholic
 		size = 100
@@ -5862,6 +5743,10 @@
 >>>>>>> Stashed changes
 		culture = yankee
 		religion = protestant
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 150
 	}
 
@@ -5872,9 +5757,14 @@
 	}
 
 	artisans = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 200
 =======
 		size = 3200
@@ -5882,9 +5772,14 @@
 	}
 
 	soldiers = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 50
 =======
 		size = 650
@@ -5892,9 +5787,14 @@
 	}
 
 	farmers = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 3700
 =======
 		size = 64225
@@ -5902,23 +5802,29 @@
 	}
 
 	clergymen = {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		culture = yankee
 		religion = catholic
+=======
+		culture = native_american_minor
+		religion = protestant
+>>>>>>> master
 		size = 15
 	}
 
 	artisans = {
-		culture = yankee
-		religion = catholic
+		culture = native_american_minor
+		religion = protestant
 		size = 10
 	}
 
 	farmers = {
-		culture = yankee
-		religion = catholic
+		culture = native_american_minor
+		religion = protestant
 		size = 30
 	}
+	
 
 =======
 		culture = north_german
@@ -5942,9 +5848,14 @@
 #Evansville (196000/49000 POPS)
 170 = {
 	clergymen = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 225
 =======
 		size = 325
@@ -5952,9 +5863,14 @@
 	}
 
 	artisans = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 100
 =======
 		size = 2300
@@ -5962,6 +5878,7 @@
 	}
 
 	soldiers = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = protestant
 <<<<<<< Updated upstream
@@ -5979,6 +5896,10 @@
 		culture = afro_american
 		religion = protestant
 >>>>>>> Stashed changes
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 25
 	}
 
@@ -5989,9 +5910,14 @@
 	}
 
 	farmers = {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		culture = yankee
 		religion = protestant
+=======
+		culture = native_american_minor
+		religion = animist
+>>>>>>> master
 		size = 1850
 =======
 		culture = afro_american
@@ -6000,6 +5926,7 @@
 	}
 
 	clergymen = {
+<<<<<<< HEAD
 		culture = irish
 		religion = catholic
 		size = 20
@@ -6025,12 +5952,41 @@
 		size = 15
 =======
 		size = 10
+=======
+		culture = native_american_minor
+		religion = protestant
+		size = 15
 	}
 
 	artisans = {
+		culture = native_american_minor
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = protestant
+		size = 930
+>>>>>>> master
+	}
+
+	artisans = {
+<<<<<<< HEAD
 		culture = yankee
 		religion = catholic
 		size = 50
+=======
+		culture = native_american_minor
+		religion = protestant
+		size = 150
+>>>>>>> master
 	}
 
 	farmers = {
@@ -6081,6 +6037,7 @@
 >>>>>>> Stashed changes
 	}
 }
+<<<<<<< HEAD
 #Fort Wayne (128000/32000 POPS)
 172 = {
 	clergymen = {
@@ -6714,6 +6671,14 @@
 		culture = yankee
 		religion = catholic
 		size = 200
+=======
+#Marquette (POPS)
+177 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+>>>>>>> master
 	}
 
 	farmers = {
@@ -6909,266 +6874,79 @@
 		size = 4600
 	}
 }
-#Columbus (268000/67000 POPS)
+#Columbus (26800/6700 POPS)
 179 = {
 	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 75
+		culture = native_american_minor
+		religion = animist
+		size = 100
 	}
 
 	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 2000
-	}
-	
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 575
-	}
-
-	officers = {
-		culture = yankee
-		religion = protestant
-		size = 275
-	}
-
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 575
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 2500
+		culture = native_american_minor
+		religion = animist
+		size = 307
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 500
+		culture = native_american_minor
+		religion = animist
+		size = 241
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 45775
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 350
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 6600
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 7425
+		culture = native_american_minor
+		religion = animist
+		size = 6050
 	}
 }
-#Sandusky (188000/47000 POPS)
+#Sandusky (18800/4700 POPS)
 180 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 350
+		culture = native_american_minor
+		religion = animist
+		size = 94
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 1850
+		culture = native_american_minor
+		religion = animist
+		size = 235
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 375
+		culture = native_american_minor
+		religion = animist
+		size = 141
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 34525
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 500
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 9425
+		culture = native_american_minor
+		religion = animist
+		size = 4246
 	}
 }
-#Dayton (224000/56000 POPS)
+#Dayton (22400/5600 POPS)
 181 = {
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 525
+		culture = native_american_minor
+		religion = animist
+		size = 113
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 2450
+		culture = native_american_minor
+		religion = animist
+		size = 284
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 500
+		culture = native_american_minor
+		religion = animist
+		size = 170
 	}
 
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 45725
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 350
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 6600
-	}
-}
-#Cincinnati (296000/74000 POPS)
-182 = {
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 2000
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 575
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 2650
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 525
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 49450
-	}
-
-	clergymen = {
-		culture = north_german
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 400
-	}
-
-	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 7550
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 7425
-	}
-
+<<<<<<< HEAD
 	clergymen = {
 		culture = afro_american
 		religion = protestant
@@ -7274,6 +7052,38 @@
 		culture = dixie
 		religion = protestant
 		size = 250
+=======
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 5112
+	}
+}
+#Cincinnati (7400 POPS)
+182 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 148
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 370
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 222
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 6670
+>>>>>>> master
 	}
 
 	clergymen = {
@@ -7327,111 +7137,28 @@
 <<<<<<< Updated upstream
 #Kentucky Region (740000)
 #ruled by the USA
-#Louisville (156000/39000 POPS)
+#Louisville (16000/4000 POPS)	#no
 184 = {
 	clergymen = {
-		culture = dixie
-		religion = catholic
-		size = 25
+		culture = native_american_minor
+		religion = animist
+		size = 77
 	}
 
 	artisans = {
-		culture = dixie
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = dixie
-		religion = catholic
-		size = 1000
-	}
-	
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 700
+		culture = native_american_minor
+		religion = animist
+		size = 194
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 150
+		culture = native_american_minor
+		religion = animist
+		size = 116
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 7050
-	}
-
-	clergymen = {
-		culture = irish
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = irish
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = irish
-		religion = catholic
-		size = 3675
-	}
-
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 250
-	}
-
-	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 350
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 14125
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 700
-	}
-
-	farmers = {
+<<<<<<< HEAD
 		culture = afro_american
 		religion = protestant
 		size = 700
@@ -7448,6 +7175,11 @@
 		culture = yankee
 		religion = catholic
 		size = 100
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 3506
+>>>>>>> master
 	}
 	
 	clergymen = {
@@ -7478,46 +7210,63 @@
 	clergymen = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 150
 =======
 		size = 350
 >>>>>>> Stashed changes
+=======
+		size = 75
+>>>>>>> master
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 650
 =======
 		size = 2350
 >>>>>>> Stashed changes
+=======
+		size = 325
+>>>>>>> master
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 125
 =======
 		size = 475
 >>>>>>> Stashed changes
+=======
+		size = 62
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 4150
 =======
 		size = 23725
 >>>>>>> Stashed changes
+=======
+		size = 275
+>>>>>>> master
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 250
 =======
@@ -7535,79 +7284,110 @@
 		religion = protestant
 		size = 125
 >>>>>>> Stashed changes
+=======
+		size = 125
+>>>>>>> master
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 150
 =======
 		size = 175
 >>>>>>> Stashed changes
+=======
+		size = 75
+>>>>>>> master
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 525
 =======
 		size = 950
 >>>>>>> Stashed changes
+=======
+		size = 213
+>>>>>>> master
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 225
 =======
 		size = 350
 >>>>>>> Stashed changes
+=======
+		size = 112
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 19950
 =======
 		size = 41825
 >>>>>>> Stashed changes
+=======
+		size = 9975
+>>>>>>> master
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 100
+		size = 50
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 700
 =======
 		size = 800
 >>>>>>> Stashed changes
+=======
+		size = 350
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 700
 =======
 		size = 850
 >>>>>>> Stashed changes
+=======
+		size = 350
+>>>>>>> master
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 9500
+=======
+		size = 4750
+>>>>>>> master
 	}
 }
 #Bowling Green (144000/36000 POPS)
@@ -7615,36 +7395,37 @@
 	farmers = {
 		culture = yankee
 		religion = catholic
-		size = 100
+		size = 50
 	}
 	
 	clergymen = {
 		culture = yankee
 		religion = catholic
-		size = 10
+		size = 5
 	}
 
 	artisans = {
 		culture = yankee
 		religion = catholic
-		size = 50
+		size = 25
 	}
 	
 	bureaucrats = {
 		culture = yankee
 		religion = protestant
-		size = 125
+		size = 87
 	}
 
 	officers = {
 		culture = yankee
 		religion = protestant
-		size = 75
+		size = 37
 	}
 
 	clergymen = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 		size = 350
 =======
 		size = 10250
@@ -7657,41 +7438,57 @@
 		religion = protestant
 		size = 75
 >>>>>>> Stashed changes
+=======
+		size = 175
+>>>>>>> master
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 2350
 =======
 		size = 250
 >>>>>>> Stashed changes
+=======
+		size = 1175
+>>>>>>> master
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 475
 =======
 		size = 50
 >>>>>>> Stashed changes
+=======
+		size = 237
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 23725
 =======
 		size = 4625
 >>>>>>> Stashed changes
+=======
+		size = 11862
+>>>>>>> master
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 450
 	}
@@ -7774,44 +7571,51 @@
 		culture = yankee
 		religion = protestant
 		size = 50
+=======
+		size = 225
+>>>>>>> master
 	}
 
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 4625
-	}
-
-	aristocrats = {
+	bureaucrats = {
 		culture = dixie
 		religion = protestant
+		size = 87
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 		size = 275
+=======
+		size = 87
+>>>>>>> master
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 100
+		size = 87
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 550
+		size = 475
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 225
+		size = 175
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 12850
+		size = 20912
 	}
 
 	clergymen = {
@@ -7823,19 +7627,45 @@
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 350
+		size = 400
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 100
+		size = 425
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 7500
+		size = 5125
+	}
+}	
+#Paducah (9000/3000 POPS)	#Uncolonized
+187 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 65
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 163
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 97
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2938
 	}
 }
 #Tennessee Region (772000)
@@ -7845,315 +7675,273 @@
 	aristocrats = {
 		culture = dixie
 		religion = catholic
-		size = 5
+		size = 3
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = catholic
-		size = 15
+		size = 7
 	}
 
 	artisans = {
-		culture = dixie
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
 		culture = dixie
 		religion = catholic
 		size = 25
 	}
 
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 12
+	}
+
 	farmers = {
 		culture = dixie
 		religion = catholic
-		size = 125
+		size = 62
 	}
 	
 	bureaucrats = {
 		culture = yankee
 		religion = protestant
-		size = 100
+		size = 50
 	}
 
 	officers = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 275
+		size = 137
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 1800
+		size = 900
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 350
+		size = 175
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 8525
+		size = 4262
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 950
+		size = 475
 	}
 
 	bureaucrats = {
 		culture = dixie
 		religion = protestant
-		size = 300
+		size = 150
 	}
 
 	officers = {
 		culture = dixie
 		religion = protestant
-		size = 150
+		size = 75
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 500
+		size = 250
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 3100
+		size = 1550
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 2000
 =======
 		size = 1000
 >>>>>>> Stashed changes
+=======
+		size = 500
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 66000
+		size = 33000
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 125
+		size = 67
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 850
+		size = 425
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 325
+		size = 167
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 13700
+		size = 6850
 	}
 }
-#Memphis (128000/32000 POPS)
+#Memphis (20000/5000 POPS) #Uncolonized
 189 = {
-	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 400
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 1475
-	}
 
 	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 450
+		culture = native_american_minor
+		religion = animist
+		size = 52
 	}
-
+	
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 150
+		culture = native_american_minor
+		religion = animist
+		size = 104
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 800
+		culture = native_american_minor
+		religion = animist
+		size = 313
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 300
+		culture = native_american_minor
+		religion = animist
+		size = 261
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 20300
+		culture = native_american_minor
+		religion = animist
+		size = 4818
 	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 350
-	}
-
-	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 100
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 7500
-	}
+	
 }
 #Knoxville (116000/29000 POPS)
 190 = {
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 350
+		size = 175
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 75
+		size = 37
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 2525
+		size = 1262
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 275
+		size = 137
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 75
+		size = 37
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 475
+		size = 237
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 225
+		size = 113
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 11950
+		size = 5975
 	}
 
 	clergymen = {
 		culture = irish
 		religion = protestant
-		size = 75
+		size = 37
 	}
 
 	artisans = {
 		culture = irish
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = irish
+		religion = protestant
+		size = 2337
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 37
+	}
+
+	artisans = {
+		culture = afro_american
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = irish
-		religion = protestant
-		size = 4675
-	}
-
-	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 500
-	}
-
-	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 350
+		size = 175
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 7075
+		size = 3537
 	}
 }
 #Chattanooga (132000/33000 POPS)
@@ -8161,198 +7949,203 @@
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 400
+		size = 200
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 75
+		size = 37
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 2475
+		size = 1237
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 275
+		size = 137
 	}
 
 	clergymen = {
 		culture = dixie
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 825
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 200
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 14000
-	}
-
-	clergymen = {
-		culture = irish
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = irish
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
-		culture = irish
-		religion = protestant
-		size = 4675
-	}
-
-	clergymen = {
-		culture = afro_american
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 413
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 7000
+	}
+
+	clergymen = {
+		culture = irish
+		religion = protestant
+		size = 37
+	}
+
+	artisans = {
+		culture = irish
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = irish
+		religion = protestant
+		size = 2337
+	}
+
+	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 350
+		size = 26
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 175
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 400
+		size = 200
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 5200
+		size = 2600
 	}
 
 	aristocrats = {
 		culture = cherokee
 		religion = animist
-		size = 25
+		size = 13
 	}
 
 	clergymen = {
 		culture = cherokee
 		religion = animist
-		size = 50
+		size = 25
 	}
 
 	artisans = {
 		culture = cherokee
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	soldiers = {
 		culture = cherokee
 		religion = animist
-		size = 25
+		size = 13
 	}
 
 	farmers = {
 		culture = cherokee
 		religion = animist
-		size = 1600
+		size = 800
 	}
 }
-#Mississippi Region (340000)
+#Mississippi Region 
 #ruled by the USA
-#Jackson (164000/41000 POPS)
+#Jackson (164000/41000 POPS) #-20%
 192 = {
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 525
+		size = 120	#-20%
 	}
 
 	bureaucrats = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 		size = 125
 <<<<<<< Updated upstream
 =======
+=======
+		size = 50	#-20%
+>>>>>>> master
 	}
 
 	officers = {
 		culture = dixie
 		religion = protestant
-		size = 100
+		size = 40	#-20%
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 175
+		size = 70	#-20%
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 1650
+		size = 660	#-20%
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 400
+		size = 160	#-20%
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 20050
+		size = 5520	#-20%
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 25
+		size = 13
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 300
+		size = 150	
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 25
+		culture = native_american_minor
+		religion = animist
+		size = 5103	
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
+<<<<<<< HEAD
 		size = 17650
 >>>>>>> Stashed changes
 	}
@@ -8436,53 +8229,33 @@
 		religion = protestant
 <<<<<<< Updated upstream
 		size = 17650
+=======
+		size = 6325	#-20%
+>>>>>>> master
 	}
 }
-#Vicksburg (100000/25000 POPS)
+#Vicksburg (24000/6000 POPS) #Uncolonized
 193 = {
-	aristocrats = {
-		culture = dixie
-		religion = protestant
-		size = 350
-	}
-
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 75
+		culture = native_american_minor
+		religion = animist
+		size = 135
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 1100
+		culture = native_american_minor
+		religion = animist
+		size = 337
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 250
+		culture = native_american_minor
+		religion = animist
+		size = 212
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 9325
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 250
-	}
-
-	farmers = {
+<<<<<<< HEAD
 		culture = afro_american
 		religion = protestant
 		size = 25
@@ -8494,9 +8267,14 @@
 =======
 >>>>>>> Stashed changes
 		size = 13700
+=======
+		culture = native_american_minor
+		religion = animist
+		size = 6412
+>>>>>>> master
 	}
 }
-#Biloxi (76000/19000 POPS)
+#Biloxi (76000/19000 POPS)	#West Florida Region
 194 = {
 	aristocrats = {
 		culture = dixie
@@ -8559,101 +8337,105 @@
 	aristocrats = {
 		culture = dixie
 		religion = catholic
-		size = 15
+		size = 7
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = catholic
-		size = 35
+		size = 17
 	}
 
 	artisans = {
 		culture = dixie
 		religion = catholic
-		size = 100
+		size = 50
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = catholic
-		size = 25
+		size = 13
 	}
 
 	farmers = {
 		culture = dixie
 		religion = catholic
-		size = 1825
+		size = 912
 	}
 	
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 750
+		size = 375
 	}
 
 	bureaucrats = {
 		culture = dixie
 		religion = protestant
-		size = 250
+		size = 125
 	}
 
 	officers = {
 		culture = dixie
 		religion = protestant
-		size = 175
+		size = 87
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 275
+		size = 137
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 1650
+		size = 825
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 2000
 =======
 		size = 1000
 >>>>>>> Stashed changes
+=======
+		size = 500
+>>>>>>> master
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 35950
+		size = 17975
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 25
+		size = 13
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 450
+		size = 275
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 25
+		size = 13
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 23500
+		size = 11750
 	}
 }
 #Tuscaloosa (168000/42000 POPS)
@@ -8661,55 +8443,55 @@
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 600
+		size = 300
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 175
+		size = 137
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 1100
+		size = 525
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 425
+		size = 213
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 23800
+		size = 11860
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 25
+		size = 13
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 575
+		size = 287
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 15300
+		size = 7650
 	}
 }
 #Mobile (140000/35000 POPS)
@@ -8868,103 +8650,103 @@
 		size = 3900
 	}
 }
-#St Augustine (48000/12000 POPS)
+#St Augustine (48000/12000 POPS) + 20%
 199 = {
 	aristocrats = {
 		culture = dixie
 		religion = catholic
-		size = 5
+		size = 6
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = catholic
-		size = 5
+		size = 6
 	}
 
 	artisans = {
 		culture = dixie
 		religion = catholic
-		size = 25
+		size = 30
 	}
 
 	farmers = {
 		culture = dixie
 		religion = catholic
-		size = 125
+		size = 150
 	}
 	
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 150
+		size = 180
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 325
+		size = 390
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 125
+		size = 150
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 7350
+		size = 8820
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 10
+		size = 12
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 80
+		size = 96
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 10
+		size = 12
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 3900
+		size = 5850	#+50%
 	}
 }
-#Tampa (8000/2000 POPS)
+#Tampa (24000/6000 POPS)
 200 = {
 	aristocrats = {
-		culture = native_american_minor
-		religion = animist
+		culture = dixie
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
+		culture = dixie
+		religion = protestant
+		size = 36
 	}
 
 	artisans = {
-		culture = native_american_minor
-		religion = animist
+		culture = dixie
+		religion = protestant
 		size = 100
 	}
 
@@ -8973,11 +8755,29 @@
 		religion = animist
 		size = 25
 	}
+	
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 20
+	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1800
+		size = 1303
+	}
+	
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 2216
+	}
+	
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1988
 	}
 }
 #Georgia Region (628000)
@@ -9279,7 +9079,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -9355,7 +9155,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -9750,61 +9550,61 @@
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 300
+		size = 360
 	}
 
 	bureaucrats = {
 		culture = dixie
 		religion = protestant
-		size = 100
+		size = 120
 	}
 
 	officers = {
 		culture = dixie
 		religion = protestant
-		size = 100
+		size = 120
 	}
 
 	clergymen = {
 		culture = dixie
-		religion = protestant
-		size = 125
-	}
-
-	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 550
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 400
-	}
-
-	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 10075
-	}
-
-	clergymen = {
-		culture = afro_american
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 660
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 480
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 12090
+	}
+
+	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 900
+		size = 180
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 1080
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 225
+		size = 270
 	}
 
 	slaves = {
@@ -9998,79 +9798,79 @@
 	aristocrats = {
 		culture = dixie
 		religion = catholic
-		size = 225
+		size = 270
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = catholic
-		size = 100
+		size = 120
 	}
 
 	artisans = {
 		culture = dixie
 		religion = catholic
-		size = 500
+		size = 600
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = catholic
-		size = 175
+		size = 210
 	}
 
 	farmers = {
 		culture = dixie
 		religion = catholic
-		size = 10000
+		size = 12000
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
-		size = 125
+		size = 150
 	}
 
 	clergymen = {
 		culture = dixie
 		religion = protestant
-		size = 75
+		size = 90
 	}
 
 	artisans = {
 		culture = dixie
 		religion = protestant
-		size = 175
+		size = 210
 	}
 
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 75
+		size = 90
 	}
 
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 3650
+		size = 4380
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 500
+		size = 600
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-		size = 225
+		size = 270
 	}
 
 	slaves = {
@@ -10158,7 +9958,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1300
+		size = 500
 	}
 
 	farmers = {
@@ -10240,7 +10040,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1175
+		size = 500
 	}
 
 	farmers = {
@@ -10315,7 +10115,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 1175
+		size = 500
 	}
 
 	farmers = {
@@ -10409,7 +10209,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 3000
+		size = 1000
 	}
 
 	farmers = {
@@ -10879,7 +10679,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -11121,7 +10921,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -11533,7 +11333,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -12500,7 +12300,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 50
+		size = 25
 	}
 
 	farmers = {
@@ -12524,7 +12324,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -12606,7 +12406,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
@@ -12664,7 +12464,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 	
 	bureaucrats = {
@@ -12694,7 +12494,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 600
+		size = 300
 	}
 
 	farmers = {
@@ -12726,7 +12526,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -12750,7 +12550,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 375
+		size = 150
 	}
 
 	farmers = {
@@ -12774,7 +12574,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 75
+		size = 35
 	}
 
 	farmers = {
@@ -12801,7 +12601,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 25
+		size = 12
 	}
 
 	farmers = {
@@ -12825,7 +12625,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 25
 	}
 
 	farmers = {
@@ -12884,10 +12684,12 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 		size = 25
 	}
 
+=======
 =======
 		size = 12
 	}
@@ -12904,6 +12706,85 @@
 		size = 400
 	}
 }
+#Bay - (30000/7500 POPS) - America
+3275 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 225
+	}
+	
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 46
+	}
+	
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 15
+	}
+	
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 3163
+	}
+	
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 8
+	}
+	
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 310
+	}
+	
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 3750
+	}
+}
+#Mora - PLACEHOLDER - Mexico
+3280 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+>>>>>>> master
+		size = 12
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
+	}
+}
+<<<<<<< HEAD
 #Bay - Placeholder - ruled by America aka Thirteen Colonies
 3275 = {
 	aristocrats = {
@@ -12977,3 +12858,38 @@
 	}
 }
 >>>>>>> Stashed changes
+=======
+#Clarksville - PLACEHOLDER - Mexico
+3281 = {
+	
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
+	}
+}
+>>>>>>> master

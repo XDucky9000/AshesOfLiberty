@@ -1,11 +1,30 @@
-#France Louisana
-vassal = {
-	first = FRA
+#Spain - Louisana
+substate = {
+	first = SPA
 	second = ULA
-	start_date = 1682.1.1
+	start_date = 1773.1.1
 	end_date = 1936.1.1
+}
+
+#UK - USA
+substate = {
+	first = ENG
+	second = USA
+	start_date = 1607.1.1
+	end_date = 1936.1.1
+}
+
+#Hudson Bay Company
+substate = {
+	first = ENG
+	second = RPL
+	start_date = 1805.1.1
+	end_date = 1936.1.1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> master
 }
 
 #Spain - Mexico
@@ -25,7 +44,11 @@ substate = {
 }
 
 #Austria - Cologne
+<<<<<<< HEAD
 substate = {
+=======
+vassal = {
+>>>>>>> master
 	first = AUS
 	second = CLG
 	start_date = 1717.1.1
@@ -142,5 +165,8 @@ substate = {
 	second = HAN
 	start_date = 1717.1.1
 	end_Date = 1936.1.1
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
 }

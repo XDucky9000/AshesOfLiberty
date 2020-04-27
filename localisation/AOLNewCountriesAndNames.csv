@@ -134,4 +134,26 @@ SPY_proletarian_dictatorship;Speyer Commune;;;;;;;;;;;;X
 SPY_democracy;Speyer Republic;;;;;;;;;;;;X
 SPY_free_city;Free City of Speyer;;;;;;;;;;;;X
 SPY_theocracy;Prince-Bishopric of Speyer
+<<<<<<< HEAD
+=======
+HRE_ADJ;Imperial;Imperial;Imperial;;;;;;;;;;;x;
+HRE;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_proletarian_dictatorship;German People's Republic;German People's Republic;German People's Republic;;;;;;;;;;;x;
+HRE_presidential_dictatorship;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_bourgeois_dictatorship;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_fascist_dictatorship;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_absolute_monarchy;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_prussian_constitutionalism;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_hms_government;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;;;;;;;;;;x;
+HRE_democracy;Roman Republic;Roman Republic;Roman Republic;;;;;;;;;;;x;
+HRE_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+HRE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+HRE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+HRE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+HRE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+HRE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+HRE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+HRE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+HRE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+>>>>>>> master
 ;;;;;;;;;;;;;x

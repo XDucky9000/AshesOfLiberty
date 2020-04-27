@@ -1768,6 +1768,17 @@ ideologies = {
 		}
 		
 		modifier = {
+			factor = 1.5
+			OR = {
+				country = { government = colonial_company }
+				country = { government = colony }
+			}
+			
+			NOT = { militancy = 3 }
+
+		}
+		
+		modifier = {
 			factor = 0.5
 			consciousness = 6
 		}		
@@ -2320,6 +2331,19 @@ ideologies = {
 	liberal = {
 		factor = 1.1
 		modifier = {
+			factor = 0.5
+			AND = {
+				OR = {
+					country = { government = colony }
+					country = { government = colonial_company }
+				}
+				
+				NOT = {
+					militancy = 4
+				}
+			}
+		}
+		modifier = {
 			factor = 0.9
 			OR = {
 				is_accepted_culture = yes
@@ -2342,7 +2366,16 @@ ideologies = {
 		}
 		modifier = {
 			factor = 0.5
-			militancy = 6
+			AND = {
+				NOT = {
+					OR = {
+						country = { government = colony }
+						country = { government = colonial_company }
+					}
+				}
+				militancy = 6
+			}
+
 		}
 		modifier = {
 			factor = 1.2

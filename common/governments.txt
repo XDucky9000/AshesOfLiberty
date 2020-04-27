@@ -34,6 +34,13 @@ colonial_company = {
 	appoint_ruling_party = yes
 }
 
+colony = {
+	reactionary = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+
 dominion = {
 	liberal = yes
 	socialist = yes
@@ -136,6 +143,20 @@ federal_democracy = {
 	duration = 48
 	appoint_ruling_party = no
 	flagType = republic
+}
+
+free_city = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	communist = yes
+	anarcho_liberal = yes
+	fascist = yes
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
 }
 
 theocracy = {
