@@ -171,7 +171,7 @@ ENG = { value = -75 }
 FRA = { value = -50 }
 RUS = { value = 150 }
 USA = { value = 25 }
-PRU = { value = 150 }
+PRU = { value = -50 }
 TUR = { value = 25 }
 SPA = { value = 0 }
 

@@ -1,5 +1,119 @@
 political_decisions = {
 	
+	extend_reichsnotfall = {
+		potential = {
+			AND = {
+				is_greater_power = yes
+				tag = AUS
+				
+				THIS = {
+					has_country_modifier = reichsnotfall_extended
+				}
+				
+				NOT = {
+					has_global_flag = reichsnotfall_codified
+				}
+				
+				NOT = {
+					has_global_flag = HRE_dead
+				}
+			}
+		}
+		
+		allow = {
+			OR = {
+				AND = {
+					NOT = {
+						has_country_flag = reichsnotfall_extended_through_saxony
+					}
+					is_our_vassal = SAX
+				}
+					
+				AND = {
+					NOT = {
+						has_country_flag = reichsnotfall_extended_through_hannover
+					}
+					is_our_vassal = HAN
+					OR = {
+						has_country_flag = no_union_with_hannover
+						has_country_flag = hannover_subued
+					}
+				}
+					
+				AND = {
+					NOT = {
+						has_country_flag = reichsnotfall_extended_through_prussia
+					}
+					OR = {
+						is_our_vassal = PRU
+						is_our_vassal = BRG
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 5
+			remove_country_modifier = reichsnotfall_extended
+			add_country_modifier = {
+				name = reichsnotfall_extended
+				duration = 3650
+			}
+			random_owned = { 
+				limit = { 
+					owner = {
+						AND = {
+							is_our_vassal = HAN
+							OR = {
+								has_country_flag = no_union_with_hannover
+								has_country_flag = hannover_subued
+							}
+							NOT = { 
+								has_country_flag = reichsnotfall_extended_through_hannover 
+							}
+						}
+					}
+				}
+				owner = { set_country_flag = reichsnotfall_extended_through_hannover }
+			}
+			
+			random_owned = { 
+				limit = { 
+					owner = {
+						AND = {
+							is_our_vassal = SAX
+							NOT = { 
+								has_country_flag = reichsnotfall_extended_through_saxony
+							}
+						}
+					}
+				}
+				owner = { set_country_flag = reichsnotfall_extended_through_saxony }
+			}
+			
+			random_owned = { 
+				limit = { 
+					owner = {
+						AND = {
+							OR = {
+								is_our_vassal = PRU
+								is_our_vassal = BRG
+							}
+
+							NOT = { 
+								has_country_flag = reichsnotfall_extended_through_prussia
+							}
+						}
+					}
+				}
+				owner = { set_country_flag = reichsnotfall_extended_through_prussia }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	codify_reichsnotfall = {
 		potential = {
 			AND = {
@@ -19,7 +133,6 @@ political_decisions = {
 		
 		allow = {
 			AND = {
-				has_global_flag = reichsnotfall_extended
 
 				
 				#The three clerical electors
@@ -79,7 +192,8 @@ political_decisions = {
 			tag = AUS
 		}	
 		allow = {
-			always = yes
+			war = no
+			ai = no
 		}
 		
 		effect = {

@@ -47,7 +47,7 @@ vassal = {
 }
 
 #Austria - Mainz
-substate = {
+vassal = {
 	first = AUS
 	second = MNZ
 	start_date = 1717.1.1
@@ -55,7 +55,7 @@ substate = {
 }
 
 #Austria - Bavaria
-substate = {
+vassal = {
 	first = AUS
 	second = BAV
 	start_date = 1717.1.1
@@ -63,7 +63,7 @@ substate = {
 }
 
 #Austria - Trier
-substate = {
+vassal = {
 	first = AUS
 	second = TRR
 	start_date = 1717.1.1
@@ -71,7 +71,7 @@ substate = {
 }
 
 #Austria - Trier
-substate = {
+vassal = {
 	first = AUS
 	second = WUR
 	start_date = 1717.1.1
@@ -79,7 +79,7 @@ substate = {
 }
 
 #Austria - Baden
-substate = {
+vassal = {
 	first = AUS
 	second = BAD
 	start_date = 1717.1.1
@@ -87,7 +87,7 @@ substate = {
 }
 
 #Austria - Ulm
-substate = {
+vassal = {
 	first = AUS
 	second = ULM
 	start_date = 1717.1.1
@@ -95,7 +95,7 @@ substate = {
 }
 
 #Austria - Worms
-substate = {
+vassal = {
 	first = AUS
 	second = WOR
 	start_date = 1717.1.1
@@ -103,7 +103,7 @@ substate = {
 }
 
 #Austria - Speyer
-substate = {
+vassal = {
 	first = AUS
 	second = SPY
 	start_date = 1717.1.1
@@ -111,7 +111,7 @@ substate = {
 }
 
 #Austria - Salzburg
-substate = {
+vassal = {
 	first = AUS
 	second = SLZ
 	start_date = 1717.1.1
@@ -119,7 +119,7 @@ substate = {
 }
 
 #Austria - Aachen
-substate = {
+vassal = {
 	first = AUS
 	second = AAC
 	start_date = 1717.1.1
@@ -127,7 +127,7 @@ substate = {
 }
 
 #Austria - SGM
-substate = {
+vassal = {
 	first = AUS
 	second = SGM
 	start_date = 1717.1.1
@@ -135,7 +135,7 @@ substate = {
 }
 
 #Austria - Hesse-Darmstadt
-substate = {
+vassal = {
 	first = AUS
 	second = HES
 	start_date = 1717.1.1
@@ -143,7 +143,7 @@ substate = {
 }
 
 #Austria - Hesse-Kasel
-substate = {
+vassal = {
 	first = AUS
 	second = HEK
 	start_date = 1717.1.1
@@ -151,9 +151,81 @@ substate = {
 }
 
 #Austria - Hannover
-substate = {
+vassal = {
 	first = AUS
 	second = HAN
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Meiningen
+vassal = {
+	first = AUS
+	second = MEI
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Gotha
+vassal = {
+	first = AUS
+	second = COB
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Lippe/Detmold
+vassal = {
+	first = AUS
+	second = LIP
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Waldeck
+vassal = {
+	first = AUS
+	second = WLD
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Nassau
+vassal = {
+	first = AUS
+	second = NAS
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Weimar
+vassal = {
+	first = AUS
+	second = WEI
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Reuss
+vassal = {
+	first = AUS
+	second = REU
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Frankfurt
+vassal = {
+	first = AUS
+	second = FRM
+	start_date = 1717.1.1
+	end_Date = 1936.1.1
+}
+
+#Austria - Hamburg
+vassal = {
+	first = AUS
+	second = HAM
 	start_date = 1717.1.1
 	end_Date = 1936.1.1
 }
