@@ -475,7 +475,7 @@ PROV1087;Otomari;;;;;;;;;;;;x
 JAP_1088;Ezo;;;;;;;;;;;;x
 AST_1097;New Caledonia;;;;;;;;;;;;x
 PER_1116;Mazandaran;;;;;;;;;;;;x
-PER_1128;Lorestan;;;;;;;;;;;;x
+PER_1128;Hamadan;;;;;;;;;;;;x
 PER_1132;Khuzestan;;;;;;;;;;;;x
 PER_1136;Fars;;;;;;;;;;;;x
 PER_1140;Kerman;;;;;;;;;;;;x
@@ -991,3 +991,6 @@ PROV3278;Frenchman's Creek;;;;;;;x
 PROV3279;Speyer;;;;;;;x
 PROV3280;Mora;;;;;x
 PROV3281;Red River;;;;;x
+PER_1122;Kurdistan;;;;;x
+PROV1137;Marvdasht;;;;;x
+PROV1138;Jahrom;;;;;x
