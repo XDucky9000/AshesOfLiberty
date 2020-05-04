@@ -982,12 +982,6 @@ PROV534;Hannover;;;;;;;;;;;;x
 FRA_438;Centre-Val de Loire;;;;;;;;;;;;x
 SIC_763;Sicilia;;;;;;;;;;;;x
 PROV843;Chios and Samos;;;;;;;;;;;;x
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-PROV906;As-Suwayda;;;;;;;;;;;x
-=======
-=======
->>>>>>> master
 PROV906;As-Suwayda;;;;;;;;;;;x
 PROV3275;Bay;;;;;;;;;;;x
 USA_3275;West Florida;;;;;;;;;;;x
@@ -995,13 +989,8 @@ PROV3276;Worms;;;;;;;x
 PROV3277;Pakowki;;;;;;;x
 PROV3278;Frenchman's Creek;;;;;;;x
 PROV3279;Speyer;;;;;;;x
-<<<<<<< HEAD
-PROV3280;Coblenz;;;;;x
->>>>>>> Stashed changes
-=======
 PROV3280;Mora;;;;;x
 PROV3281;Red River;;;;;x
 PER_1122;Kurdistan;;;;;x
 PROV1137;Marvdasht;;;;;x
 PROV1138;Jahrom;;;;;x
->>>>>>> master
