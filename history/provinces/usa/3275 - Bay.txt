@@ -3,6 +3,10 @@ controller = USA
 add_core = USA
 trade_goods = cotton	#the whole south produces it
 life_rating = 35
+<<<<<<< HEAD
+colonial = 2
+=======
+>>>>>>> master
 is_slave = yes
 
 party_loyalty = {	#placeholder
